@@ -18,9 +18,10 @@ ips = "Fission_ip.txt"
 domains = "Fission_domain.txt"
 dns_result = "dns_result.txt"
 
+
 # 并发数配置
-max_workers_request = 200   # 并发请求数量20
-max_workers_dns = 500       # 并发DNS查询数量50
+max_workers_request = 200   # 并发请求数量
+max_workers_dns = 500       # 并发DNS查询数量
 
 # 生成随机User-Agent
 ua = UserAgent()
@@ -184,34 +185,15 @@ def main():
 
     domain_list = list(set(domain_list + exist_list))
 
-    # 限制成功获取的域名数量为100个
-    max_domains = 100
     with open("Fission_domain.txt", "w") as output:
-        for i, domain in enumerate(domain_list):
-            if i < max_domains:
-                output.write(domain + "\n")
-            else:
-                break
+        for domain in domain_list:
+            output.write(domain + "\n")
     print("IP -> 域名 已完成")
 
     # 域名解析IP
     perform_dns_lookups(domains, dns_result, ips)
     print("域名 -> IP 已完成")
 
-    # 限制成功获取的IP数量为2000个
-    max_ips = 10000
-    with open(ips, 'r') as file:
-        ip_addresses = file.readlines()
-    unique_ips = []
-    for ip in ip_addresses:
-        if len(unique_ips) < max_ips:
-            unique_ips.append(ip.strip())
-        else:
-            break
-
-    with open(ips, 'w') as output:
-        for ip in unique_ips:
-            output.write(ip + '\n')
-
-if __name__ == "__main__":
+# 程序入口
+if __name__ == '__main__':
     main()
