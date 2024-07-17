@@ -26,7 +26,9 @@ jobs:
       run: python Fission.py
 
     - name: Run second script
-      run: python ipdz.py
+      run: |
+        chmod +x ip
+        ./ip -file=Fission_ip.txt -max=100 -speedtest=0
 
     - name: Commit Changes
       run: |
