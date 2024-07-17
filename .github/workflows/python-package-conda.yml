@@ -29,6 +29,7 @@ jobs:
       run: |
         chmod +x ip
         ./ip -file=Fission_ip.txt -max=100 -speedtest=0
+        awk -F, '{print $1}' ip.csv > ip.txt
 
     - name: Commit Changes
       run: |
