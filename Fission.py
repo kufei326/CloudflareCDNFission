@@ -199,7 +199,7 @@ def main():
     print("域名 -> IP 已完成")
 
     # 限制成功获取的IP数量为2000个
-    max_ips = 30000
+    max_ips = 20000
     with open(ips, 'r') as file:
         ip_addresses = file.readlines()
     unique_ips = []
