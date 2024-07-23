@@ -30,7 +30,7 @@ jobs:
         chmod +x ip
         ./ip -file=Fission_ip.txt -max=100 -speedtest=0
         awk -F, '{print $1}' ip.csv > Fission_ip.txt
-        grep -E "Asia|SJC" ip.csv | awk -F, '{print $1 ":" $2 "#" $4}' > addressesapi.txt
+        grep -E "Asia|SJC" ip.csv | awk -F, '{print $1 ":" $2 "#" $6}' > addressesapi.txt
 
     - name: Commit Changes
       run: |
