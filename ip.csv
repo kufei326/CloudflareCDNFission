@@ -1,775 +1,785 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟
-103.184.45.57,443,true,ORD,North America,Chicago,1 ms
-194.53.53.232,443,true,ORD,North America,Chicago,1 ms
-206.238.236.253,443,true,ORD,North America,Chicago,1 ms
-206.238.236.48,443,true,ORD,North America,Chicago,1 ms
-170.114.45.212,443,true,ORD,North America,Chicago,1 ms
-194.53.53.3,443,true,ORD,North America,Chicago,1 ms
-154.211.8.61,443,true,ORD,North America,Chicago,1 ms
-103.184.45.168,443,true,ORD,North America,Chicago,1 ms
-185.148.107.20,443,true,ORD,North America,Chicago,1 ms
-154.92.9.158,443,true,ORD,North America,Chicago,1 ms
-199.34.228.160,443,true,ORD,North America,Chicago,1 ms
-194.53.53.26,443,true,ORD,North America,Chicago,1 ms
-154.83.2.142,443,true,ORD,North America,Chicago,1 ms
-199.34.228.164,443,true,ORD,North America,Chicago,1 ms
-45.131.208.112,443,true,ORD,North America,Chicago,1 ms
-195.245.221.233,443,true,ORD,North America,Chicago,1 ms
-164.38.155.110,443,true,ORD,North America,Chicago,1 ms
-185.135.9.167,443,true,ORD,North America,Chicago,1 ms
-27.50.49.34,443,true,ORD,North America,Chicago,1 ms
-154.83.2.193,443,true,ORD,North America,Chicago,1 ms
-199.34.228.72,443,true,ORD,North America,Chicago,1 ms
-185.162.229.56,443,true,ORD,North America,Chicago,1 ms
-45.80.111.151,443,true,ORD,North America,Chicago,1 ms
-141.193.213.11,443,true,ORD,North America,Chicago,1 ms
-154.211.8.1,443,true,ORD,North America,Chicago,1 ms
-103.184.45.69,443,true,ORD,North America,Chicago,1 ms
-205.233.181.168,443,true,ORD,North America,Chicago,1 ms
-154.92.9.50,443,true,ORD,North America,Chicago,1 ms
-170.114.45.205,443,true,ORD,North America,Chicago,1 ms
-199.212.90.44,443,true,ORD,North America,Chicago,1 ms
-206.238.237.252,443,true,ORD,North America,Chicago,1 ms
-170.114.45.216,443,true,ORD,North America,Chicago,1 ms
-154.92.9.47,443,true,ORD,North America,Chicago,1 ms
-159.246.55.211,443,true,ORD,North America,Chicago,1 ms
-185.176.26.118,443,true,ORD,North America,Chicago,1 ms
-103.184.44.215,443,true,ORD,North America,Chicago,1 ms
-199.212.90.50,443,true,ORD,North America,Chicago,1 ms
-194.53.53.250,443,true,ORD,North America,Chicago,1 ms
-103.184.44.163,443,true,ORD,North America,Chicago,1 ms
-170.114.46.166,443,true,ORD,North America,Chicago,1 ms
-206.238.237.41,443,true,ORD,North America,Chicago,1 ms
-103.184.45.180,443,true,ORD,North America,Chicago,1 ms
-103.184.45.26,443,true,ORD,North America,Chicago,1 ms
-217.163.76.245,443,true,ORD,North America,Chicago,1 ms
-103.184.45.2,443,true,ORD,North America,Chicago,1 ms
-45.12.30.116,443,true,ORD,North America,Chicago,1 ms
-199.34.228.71,443,true,ORD,North America,Chicago,1 ms
-170.114.45.229,443,true,ORD,North America,Chicago,1 ms
-192.0.54.102,443,true,ORD,North America,Chicago,1 ms
-170.114.45.223,443,true,ORD,North America,Chicago,1 ms
-45.12.31.236,443,true,ORD,North America,Chicago,1 ms
-27.50.48.157,443,true,ORD,North America,Chicago,1 ms
-199.34.228.73,443,true,ORD,North America,Chicago,1 ms
-31.22.116.9,443,true,ORD,North America,Chicago,1 ms
-163.231.14.240,443,true,ORD,North America,Chicago,1 ms
-199.34.228.53,443,true,ORD,North America,Chicago,1 ms
-103.184.44.205,443,true,ORD,North America,Chicago,1 ms
-45.159.216.253,443,true,ORD,North America,Chicago,1 ms
-103.184.44.3,443,true,ORD,North America,Chicago,1 ms
-170.114.45.215,443,true,ORD,North America,Chicago,1 ms
-195.85.23.80,443,true,ORD,North America,Chicago,1 ms
-154.211.8.50,443,true,ORD,North America,Chicago,1 ms
-103.184.45.185,443,true,ORD,North America,Chicago,1 ms
-194.53.53.165,443,true,ORD,North America,Chicago,1 ms
-194.53.53.252,443,true,ORD,North America,Chicago,1 ms
-103.184.44.202,443,true,ORD,North America,Chicago,1 ms
-194.53.53.248,443,true,ORD,North America,Chicago,1 ms
-217.163.76.2,443,true,ORD,North America,Chicago,1 ms
-45.85.118.37,443,true,ORD,North America,Chicago,1 ms
-194.53.53.230,443,true,ORD,North America,Chicago,1 ms
-170.114.46.152,443,true,ORD,North America,Chicago,1 ms
-75.2.32.4,443,true,IAD,North America,Ashburn,1 ms
-103.184.45.184,443,true,ORD,North America,Chicago,1 ms
-170.114.45.219,443,true,ORD,North America,Chicago,1 ms
-170.114.45.237,443,true,ORD,North America,Chicago,1 ms
-206.238.236.13,443,true,ORD,North America,Chicago,1 ms
-94.140.0.180,443,true,ORD,North America,Chicago,1 ms
-154.92.9.82,443,true,ORD,North America,Chicago,1 ms
-185.176.24.210,443,true,ORD,North America,Chicago,1 ms
-103.184.45.116,443,true,ORD,North America,Chicago,1 ms
-154.92.9.232,443,true,ORD,North America,Chicago,1 ms
-103.184.45.204,443,true,ORD,North America,Chicago,1 ms
-217.163.76.186,443,true,ORD,North America,Chicago,1 ms
-206.238.237.119,443,true,ORD,North America,Chicago,1 ms
-147.78.140.39,443,true,ORD,North America,Chicago,1 ms
-154.92.9.123,443,true,ORD,North America,Chicago,1 ms
-194.53.53.111,443,true,ORD,North America,Chicago,1 ms
-170.114.45.239,443,true,ORD,North America,Chicago,1 ms
-217.163.76.127,443,true,ORD,North America,Chicago,1 ms
-154.92.9.14,443,true,ORD,North America,Chicago,1 ms
-156.238.18.200,443,true,ORD,North America,Chicago,1 ms
-154.92.9.170,443,true,ORD,North America,Chicago,1 ms
-170.114.45.221,443,true,ORD,North America,Chicago,1 ms
-194.53.53.9,443,true,ORD,North America,Chicago,1 ms
-69.84.182.228,443,true,ORD,North America,Chicago,1 ms
-217.163.76.76,443,true,ORD,North America,Chicago,1 ms
-199.34.228.74,443,true,ORD,North America,Chicago,1 ms
-27.50.49.75,443,true,ORD,North America,Chicago,1 ms
-45.159.217.134,443,true,ORD,North America,Chicago,1 ms
-156.238.18.39,443,true,ORD,North America,Chicago,1 ms
-199.34.228.191,443,true,ORD,North America,Chicago,1 ms
-103.184.44.206,443,true,ORD,North America,Chicago,1 ms
-216.116.134.198,443,true,ORD,North America,Chicago,1 ms
-170.114.45.242,443,true,ORD,North America,Chicago,1 ms
-170.114.45.227,443,true,ORD,North America,Chicago,1 ms
-69.84.182.227,443,true,ORD,North America,Chicago,1 ms
-66.81.247.242,443,true,ORD,North America,Chicago,1 ms
-170.114.45.245,443,true,ORD,North America,Chicago,1 ms
-199.34.228.10,443,true,ORD,North America,Chicago,1 ms
-31.43.179.68,443,true,ORD,North America,Chicago,1 ms
-154.211.8.205,443,true,ORD,North America,Chicago,1 ms
-194.53.53.245,443,true,ORD,North America,Chicago,1 ms
-217.163.76.79,443,true,ORD,North America,Chicago,1 ms
-170.114.45.208,443,true,ORD,North America,Chicago,1 ms
-154.219.5.4,443,true,ORD,North America,Chicago,1 ms
-199.212.90.189,443,true,ORD,North America,Chicago,1 ms
-170.114.45.225,443,true,ORD,North America,Chicago,1 ms
-162.120.94.62,443,true,ORD,North America,Chicago,1 ms
+206.238.236.139,443,true,SJC,North America,San Jose,1 ms
+154.85.99.105,443,true,SJC,North America,San Jose,1 ms
+43.153.4.246,443,true,SJC,North America,San Jose,1 ms
+45.80.111.212,443,true,SJC,North America,San Jose,1 ms
+206.238.236.99,443,true,SJC,North America,San Jose,1 ms
+27.50.49.106,443,true,SJC,North America,San Jose,1 ms
+170.114.45.214,443,true,SJC,North America,San Jose,1 ms
+206.238.236.24,443,true,SJC,North America,San Jose,1 ms
+199.34.228.67,443,true,SJC,North America,San Jose,1 ms
+170.114.45.243,443,true,SJC,North America,San Jose,1 ms
+170.114.45.228,443,true,SJC,North America,San Jose,1 ms
+27.50.48.11,443,true,SJC,North America,San Jose,1 ms
+103.184.44.96,443,true,SJC,North America,San Jose,1 ms
+154.211.8.127,443,true,SJC,North America,San Jose,1 ms
+31.22.116.181,443,true,SJC,North America,San Jose,1 ms
+194.53.53.250,443,true,SJC,North America,San Jose,1 ms
+27.126.206.62,443,true,SJC,North America,San Jose,1 ms
+154.92.9.173,443,true,SJC,North America,San Jose,1 ms
+170.114.45.226,443,true,SJC,North America,San Jose,1 ms
+206.238.237.252,443,true,SJC,North America,San Jose,1 ms
+181.214.1.136,443,true,SJC,North America,San Jose,1 ms
+155.46.213.38,443,true,SJC,North America,San Jose,1 ms
+217.163.76.241,443,true,SJC,North America,San Jose,1 ms
+216.24.57.195,443,true,SJC,North America,San Jose,1 ms
+170.114.45.220,443,true,SJC,North America,San Jose,1 ms
+170.114.45.208,443,true,SJC,North America,San Jose,1 ms
+69.84.182.227,443,true,SJC,North America,San Jose,1 ms
+170.114.45.246,443,true,SJC,North America,San Jose,1 ms
+170.114.45.249,443,true,SJC,North America,San Jose,1 ms
+154.211.8.1,443,true,SJC,North America,San Jose,1 ms
+103.184.45.189,443,true,SJC,North America,San Jose,1 ms
+185.148.105.175,443,true,SJC,North America,San Jose,1 ms
+206.238.237.119,443,true,SJC,North America,San Jose,1 ms
+199.212.90.13,443,true,SJC,North America,San Jose,1 ms
+185.176.26.70,443,true,SJC,North America,San Jose,1 ms
+199.34.228.42,443,true,SJC,North America,San Jose,1 ms
+45.85.118.37,443,true,SJC,North America,San Jose,1 ms
+103.184.45.74,443,true,SJC,North America,San Jose,1 ms
+199.34.228.47,443,true,SJC,North America,San Jose,1 ms
+104.254.140.221,443,true,SJC,North America,San Jose,1 ms
+45.12.31.225,443,true,SJC,North America,San Jose,1 ms
+103.184.44.204,443,true,SJC,North America,San Jose,1 ms
+199.34.228.174,443,true,SJC,North America,San Jose,1 ms
+194.53.53.61,443,true,SJC,North America,San Jose,1 ms
+154.219.5.50,443,true,SJC,North America,San Jose,1 ms
+199.34.228.70,443,true,SJC,North America,San Jose,1 ms
+185.162.229.56,443,true,SJC,North America,San Jose,1 ms
+154.211.8.50,443,true,SJC,North America,San Jose,1 ms
+103.184.45.206,443,true,SJC,North America,San Jose,1 ms
+154.92.9.170,443,true,SJC,North America,San Jose,1 ms
+217.163.76.212,443,true,SJC,North America,San Jose,1 ms
+154.219.5.111,443,true,SJC,North America,San Jose,1 ms
+199.34.228.53,443,true,SJC,North America,San Jose,1 ms
+154.219.5.167,443,true,SJC,North America,San Jose,1 ms
+103.184.44.170,443,true,SJC,North America,San Jose,1 ms
+45.80.111.151,443,true,SJC,North America,San Jose,1 ms
+154.211.8.82,443,true,SJC,North America,San Jose,1 ms
+199.181.197.10,443,true,SJC,North America,San Jose,1 ms
+170.114.45.247,443,true,SJC,North America,San Jose,1 ms
+66.81.247.242,443,true,SJC,North America,San Jose,1 ms
+154.92.9.14,443,true,SJC,North America,San Jose,1 ms
+45.131.208.112,443,true,SJC,North America,San Jose,1 ms
+217.163.76.245,443,true,SJC,North America,San Jose,1 ms
+194.53.53.88,443,true,SJC,North America,San Jose,1 ms
+103.184.45.226,443,true,SJC,North America,San Jose,1 ms
+154.219.5.209,443,true,SJC,North America,San Jose,1 ms
+206.238.236.17,443,true,SJC,North America,San Jose,1 ms
+170.114.45.215,443,true,SJC,North America,San Jose,1 ms
+195.85.23.87,443,true,SJC,North America,San Jose,1 ms
+206.238.236.254,443,true,SJC,North America,San Jose,1 ms
+167.68.5.225,443,true,SJC,North America,San Jose,1 ms
+170.114.45.231,443,true,SJC,North America,San Jose,1 ms
+103.184.45.169,443,true,SJC,North America,San Jose,1 ms
+206.238.236.125,443,true,SJC,North America,San Jose,1 ms
+170.114.45.232,443,true,SJC,North America,San Jose,1 ms
+27.50.48.68,443,true,SJC,North America,San Jose,1 ms
+27.50.48.5,443,true,SJC,North America,San Jose,1 ms
+103.184.44.206,443,true,SJC,North America,San Jose,1 ms
+185.176.26.173,443,true,SJC,North America,San Jose,1 ms
+103.184.45.55,443,true,SJC,North America,San Jose,1 ms
+160.153.0.116,443,true,SJC,North America,San Jose,1 ms
+206.238.236.88,443,true,SJC,North America,San Jose,1 ms
+103.184.44.189,443,true,SJC,North America,San Jose,1 ms
+170.114.45.241,443,true,SJC,North America,San Jose,1 ms
+27.50.48.14,443,true,SJC,North America,San Jose,1 ms
+170.114.45.245,443,true,SJC,North America,San Jose,1 ms
+199.34.228.159,443,true,SJC,North America,San Jose,1 ms
+185.176.26.168,443,true,SJC,North America,San Jose,1 ms
+185.238.228.91,443,true,SJC,North America,San Jose,1 ms
+27.50.48.153,443,true,SJC,North America,San Jose,1 ms
+154.83.2.61,443,true,SJC,North America,San Jose,1 ms
+193.9.49.76,443,true,SJC,North America,San Jose,1 ms
+209.46.30.206,443,true,SJC,North America,San Jose,1 ms
+170.114.45.222,443,true,SJC,North America,San Jose,1 ms
+194.53.53.77,443,true,SJC,North America,San Jose,1 ms
+199.34.228.66,443,true,SJC,North America,San Jose,1 ms
+156.146.53.82,443,true,SJC,North America,San Jose,1 ms
+199.34.228.100,443,true,SJC,North America,San Jose,1 ms
+199.34.228.79,443,true,SJC,North America,San Jose,1 ms
+199.34.228.182,443,true,SJC,North America,San Jose,1 ms
+167.68.11.111,443,true,SJC,North America,San Jose,1 ms
+154.92.9.254,443,true,SJC,North America,San Jose,1 ms
+27.50.48.2,443,true,SJC,North America,San Jose,1 ms
+194.53.53.7,443,true,SJC,North America,San Jose,1 ms
 99.83.209.185,443,true,IAD,North America,Ashburn,1 ms
-154.92.9.156,443,true,ORD,North America,Chicago,1 ms
-170.114.45.241,443,true,ORD,North America,Chicago,1 ms
-91.193.58.18,443,true,ORD,North America,Chicago,1 ms
-31.43.179.247,443,true,ORD,North America,Chicago,1 ms
-103.184.44.254,443,true,ORD,North America,Chicago,2 ms
-199.34.228.50,443,true,ORD,North America,Chicago,2 ms
-206.238.236.125,443,true,ORD,North America,Chicago,2 ms
-199.212.90.13,443,true,ORD,North America,Chicago,2 ms
-164.38.155.17,443,true,ORD,North America,Chicago,2 ms
-27.50.48.3,443,true,ORD,North America,Chicago,2 ms
-154.83.2.186,443,true,ORD,North America,Chicago,2 ms
-159.246.55.180,443,true,ORD,North America,Chicago,2 ms
-185.238.228.239,443,true,ORD,North America,Chicago,2 ms
-103.184.45.226,443,true,ORD,North America,Chicago,2 ms
-170.114.45.231,443,true,ORD,North America,Chicago,2 ms
-27.50.48.2,443,true,ORD,North America,Chicago,2 ms
-194.53.53.249,443,true,ORD,North America,Chicago,2 ms
-45.80.111.212,443,true,ORD,North America,Chicago,2 ms
-103.184.45.55,443,true,ORD,North America,Chicago,2 ms
-154.211.8.28,443,true,ORD,North America,Chicago,2 ms
-206.238.236.214,443,true,ORD,North America,Chicago,2 ms
-31.22.116.181,443,true,ORD,North America,Chicago,2 ms
-199.34.228.42,443,true,ORD,North America,Chicago,2 ms
-216.24.57.252,443,true,ORD,North America,Chicago,2 ms
-170.114.45.24,443,true,ORD,North America,Chicago,2 ms
-27.50.48.42,443,true,ORD,North America,Chicago,2 ms
-199.34.228.41,443,true,ORD,North America,Chicago,2 ms
-170.114.45.218,443,true,ORD,North America,Chicago,2 ms
-206.238.237.254,443,true,ORD,North America,Chicago,2 ms
-27.50.48.166,443,true,ORD,North America,Chicago,2 ms
-103.184.44.114,443,true,ORD,North America,Chicago,2 ms
-217.163.76.113,443,true,ORD,North America,Chicago,2 ms
-103.184.44.51,443,true,ORD,North America,Chicago,2 ms
-217.163.76.254,443,true,ORD,North America,Chicago,2 ms
-27.50.49.64,443,true,ORD,North America,Chicago,2 ms
-170.114.45.235,443,true,ORD,North America,Chicago,2 ms
-160.153.0.131,443,true,ORD,North America,Chicago,2 ms
-185.238.228.39,443,true,ORD,North America,Chicago,2 ms
-185.238.228.98,443,true,ORD,North America,Chicago,2 ms
-103.184.45.23,443,true,ORD,North America,Chicago,2 ms
-154.92.9.40,443,true,ORD,North America,Chicago,2 ms
-185.238.228.71,443,true,ORD,North America,Chicago,2 ms
-45.159.218.211,443,true,ORD,North America,Chicago,2 ms
-154.83.2.2,443,true,ORD,North America,Chicago,2 ms
-103.184.44.87,443,true,ORD,North America,Chicago,2 ms
-45.194.53.179,443,true,ORD,North America,Chicago,2 ms
-154.197.121.13,443,true,ORD,North America,Chicago,2 ms
-103.184.44.221,443,true,ORD,North America,Chicago,2 ms
-103.184.45.248,443,true,ORD,North America,Chicago,2 ms
-154.219.5.167,443,true,ORD,North America,Chicago,2 ms
-103.184.45.6,443,true,ORD,North America,Chicago,2 ms
-27.50.48.254,443,true,ORD,North America,Chicago,2 ms
-199.34.228.76,443,true,ORD,North America,Chicago,2 ms
-103.184.44.211,443,true,ORD,North America,Chicago,2 ms
-194.53.53.34,443,true,ORD,North America,Chicago,2 ms
-27.50.48.11,443,true,ORD,North America,Chicago,2 ms
-199.34.228.75,443,true,ORD,North America,Chicago,2 ms
-185.238.228.91,443,true,ORD,North America,Chicago,2 ms
-103.184.44.75,443,true,ORD,North America,Chicago,2 ms
-181.214.1.244,443,true,ORD,North America,Chicago,2 ms
-45.12.30.249,443,true,ORD,North America,Chicago,2 ms
-154.211.8.2,443,true,ORD,North America,Chicago,2 ms
-154.219.5.209,443,true,ORD,North America,Chicago,2 ms
-185.176.26.70,443,true,ORD,North America,Chicago,2 ms
-154.92.9.124,443,true,ORD,North America,Chicago,2 ms
-141.193.213.83,443,true,ORD,North America,Chicago,2 ms
-185.170.166.88,443,true,ORD,North America,Chicago,2 ms
-103.184.44.168,443,true,ORD,North America,Chicago,2 ms
-155.46.213.38,443,true,ORD,North America,Chicago,2 ms
-154.211.8.95,443,true,ORD,North America,Chicago,2 ms
-154.219.5.97,443,true,ORD,North America,Chicago,2 ms
-206.238.236.16,443,true,ORD,North America,Chicago,2 ms
-170.114.45.232,443,true,ORD,North America,Chicago,2 ms
-154.92.9.254,443,true,ORD,North America,Chicago,2 ms
-27.50.48.5,443,true,ORD,North America,Chicago,2 ms
-141.193.213.252,443,true,ORD,North America,Chicago,2 ms
-199.34.228.182,443,true,ORD,North America,Chicago,2 ms
-103.184.44.106,443,true,ORD,North America,Chicago,2 ms
-170.114.45.217,443,true,ORD,North America,Chicago,2 ms
-188.42.89.159,443,true,ORD,North America,Chicago,2 ms
-27.50.48.6,443,true,ORD,North America,Chicago,2 ms
-194.53.53.8,443,true,ORD,North America,Chicago,2 ms
-185.176.26.168,443,true,ORD,North America,Chicago,2 ms
-170.114.45.214,443,true,ORD,North America,Chicago,2 ms
-45.131.208.131,443,true,ORD,North America,Chicago,2 ms
-103.184.44.197,443,true,ORD,North America,Chicago,2 ms
-199.34.228.66,443,true,ORD,North America,Chicago,2 ms
-103.184.44.88,443,true,ORD,North America,Chicago,2 ms
-194.53.53.109,443,true,ORD,North America,Chicago,2 ms
-170.114.45.244,443,true,ORD,North America,Chicago,2 ms
-103.184.45.189,443,true,ORD,North America,Chicago,2 ms
-154.211.8.127,443,true,ORD,North America,Chicago,2 ms
-199.181.197.246,443,true,ORD,North America,Chicago,2 ms
-160.153.0.90,443,true,ORD,North America,Chicago,2 ms
-103.184.45.219,443,true,ORD,North America,Chicago,2 ms
-185.148.105.175,443,true,ORD,North America,Chicago,2 ms
-27.50.48.1,443,true,ORD,North America,Chicago,2 ms
-141.193.213.21,443,true,ORD,North America,Chicago,2 ms
-170.114.45.211,443,true,ORD,North America,Chicago,2 ms
-170.114.45.206,443,true,ORD,North America,Chicago,2 ms
-27.50.48.10,443,true,ORD,North America,Chicago,2 ms
-185.193.29.37,443,true,ORD,North America,Chicago,2 ms
-194.53.53.79,443,true,ORD,North America,Chicago,2 ms
-170.114.46.119,443,true,ORD,North America,Chicago,2 ms
-217.163.76.212,443,true,ORD,North America,Chicago,2 ms
-195.85.59.161,443,true,ORD,North America,Chicago,2 ms
-27.50.48.108,443,true,ORD,North America,Chicago,2 ms
-199.212.90.206,443,true,ORD,North America,Chicago,2 ms
-45.131.210.215,443,true,ORD,North America,Chicago,2 ms
-103.184.45.209,443,true,ORD,North America,Chicago,2 ms
-170.114.45.243,443,true,ORD,North America,Chicago,2 ms
-195.85.59.95,443,true,ORD,North America,Chicago,2 ms
-104.254.140.221,443,true,ORD,North America,Chicago,2 ms
-199.34.228.57,443,true,ORD,North America,Chicago,2 ms
-217.163.76.92,443,true,ORD,North America,Chicago,2 ms
-217.163.76.82,443,true,ORD,North America,Chicago,2 ms
-103.184.44.59,443,true,ORD,North America,Chicago,2 ms
-185.238.228.130,443,true,ORD,North America,Chicago,2 ms
-154.211.8.138,443,true,ORD,North America,Chicago,2 ms
-195.85.23.157,443,true,ORD,North America,Chicago,2 ms
-167.68.5.225,443,true,ORD,North America,Chicago,2 ms
-103.169.142.0,443,true,ORD,North America,Chicago,2 ms
-103.184.45.206,443,true,ORD,North America,Chicago,2 ms
-170.114.45.238,443,true,ORD,North America,Chicago,2 ms
-206.238.236.139,443,true,ORD,North America,Chicago,2 ms
-192.200.160.47,443,true,ORD,North America,Chicago,2 ms
-27.50.49.192,443,true,ORD,North America,Chicago,2 ms
-103.184.44.38,443,true,ORD,North America,Chicago,2 ms
-164.152.17.14,443,true,ORD,North America,Chicago,2 ms
-27.50.48.68,443,true,ORD,North America,Chicago,2 ms
-194.53.53.194,443,true,ORD,North America,Chicago,2 ms
-103.184.45.169,443,true,ORD,North America,Chicago,2 ms
-170.114.45.233,443,true,ORD,North America,Chicago,2 ms
-69.84.182.229,443,true,ORD,North America,Chicago,2 ms
-103.184.45.190,443,true,ORD,North America,Chicago,2 ms
-199.212.90.207,443,true,ORD,North America,Chicago,2 ms
-160.153.0.116,443,true,ORD,North America,Chicago,2 ms
-194.53.53.126,443,true,ORD,North America,Chicago,2 ms
-206.238.236.251,443,true,ORD,North America,Chicago,2 ms
-185.109.21.17,443,true,ORD,North America,Chicago,2 ms
-206.238.236.252,443,true,ORD,North America,Chicago,2 ms
-199.34.228.78,443,true,ORD,North America,Chicago,2 ms
-194.53.53.7,443,true,ORD,North America,Chicago,2 ms
-206.238.236.254,443,true,ORD,North America,Chicago,2 ms
-167.68.11.111,443,true,ORD,North America,Chicago,2 ms
-170.114.45.247,443,true,ORD,North America,Chicago,2 ms
-103.184.44.77,443,true,ORD,North America,Chicago,2 ms
-217.163.76.34,443,true,ORD,North America,Chicago,2 ms
-45.159.219.74,443,true,ORD,North America,Chicago,2 ms
-199.34.228.59,443,true,ORD,North America,Chicago,2 ms
-206.238.236.49,443,true,ORD,North America,Chicago,2 ms
-45.133.247.151,443,true,ORD,North America,Chicago,2 ms
-185.238.228.79,443,true,ORD,North America,Chicago,2 ms
-194.53.53.253,443,true,ORD,North America,Chicago,2 ms
-103.184.44.204,443,true,ORD,North America,Chicago,2 ms
-194.53.53.45,443,true,ORD,North America,Chicago,2 ms
-27.50.48.0,443,true,ORD,North America,Chicago,2 ms
-206.238.236.24,443,true,ORD,North America,Chicago,2 ms
-206.238.236.38,443,true,ORD,North America,Chicago,2 ms
-170.114.45.236,443,true,ORD,North America,Chicago,2 ms
-27.50.48.106,443,true,ORD,North America,Chicago,2 ms
-206.238.236.88,443,true,ORD,North America,Chicago,2 ms
-206.238.237.91,443,true,ORD,North America,Chicago,2 ms
-199.212.90.150,443,true,ORD,North America,Chicago,2 ms
-27.50.48.153,443,true,ORD,North America,Chicago,2 ms
-154.197.121.99,443,true,ORD,North America,Chicago,2 ms
-170.114.45.248,443,true,ORD,North America,Chicago,2 ms
-199.34.228.70,443,true,ORD,North America,Chicago,2 ms
-194.53.53.95,443,true,ORD,North America,Chicago,2 ms
-199.34.228.56,443,true,ORD,North America,Chicago,2 ms
-194.53.53.47,443,true,ORD,North America,Chicago,2 ms
-141.193.213.10,443,true,ORD,North America,Chicago,2 ms
-185.176.26.173,443,true,ORD,North America,Chicago,2 ms
-31.43.179.156,443,true,ORD,North America,Chicago,2 ms
-154.85.99.105,443,true,ORD,North America,Chicago,2 ms
-194.53.53.151,443,true,ORD,North America,Chicago,2 ms
-199.34.228.69,443,true,ORD,North America,Chicago,2 ms
-199.34.228.175,443,true,ORD,North America,Chicago,2 ms
-103.184.45.36,443,true,ORD,North America,Chicago,2 ms
-170.114.45.240,443,true,ORD,North America,Chicago,2 ms
-209.46.30.206,443,true,ORD,North America,Chicago,2 ms
-154.83.2.195,443,true,ORD,North America,Chicago,2 ms
-103.184.44.66,443,true,ORD,North America,Chicago,2 ms
-206.238.237.253,443,true,ORD,North America,Chicago,2 ms
-194.53.53.147,443,true,ORD,North America,Chicago,2 ms
-199.34.228.100,443,true,ORD,North America,Chicago,2 ms
-31.43.179.115,443,true,ORD,North America,Chicago,2 ms
-66.81.247.230,443,true,ORD,North America,Chicago,2 ms
-103.184.45.200,443,true,ORD,North America,Chicago,2 ms
-31.12.75.178,443,true,ORD,North America,Chicago,2 ms
-199.181.197.10,443,true,ORD,North America,Chicago,2 ms
-154.211.8.82,443,true,ORD,North America,Chicago,2 ms
-194.53.53.77,443,true,ORD,North America,Chicago,2 ms
-154.92.9.173,443,true,ORD,North America,Chicago,2 ms
-170.114.45.230,443,true,ORD,North America,Chicago,2 ms
-154.83.2.16,443,true,ORD,North America,Chicago,2 ms
-199.34.228.79,443,true,ORD,North America,Chicago,2 ms
-103.184.45.8,443,true,ORD,North America,Chicago,2 ms
-103.184.45.253,443,true,ORD,North America,Chicago,2 ms
-199.34.228.47,443,true,ORD,North America,Chicago,2 ms
-199.34.228.55,443,true,ORD,North America,Chicago,2 ms
-199.34.228.159,443,true,ORD,North America,Chicago,2 ms
-103.184.44.113,443,true,ORD,North America,Chicago,2 ms
-170.114.45.210,443,true,ORD,North America,Chicago,2 ms
-199.34.228.44,443,true,ORD,North America,Chicago,2 ms
-66.81.247.210,443,true,ORD,North America,Chicago,2 ms
-160.153.0.64,443,true,ORD,North America,Chicago,2 ms
-185.162.229.103,443,true,ORD,North America,Chicago,2 ms
-103.184.45.27,443,true,ORD,North America,Chicago,2 ms
-170.114.45.226,443,true,ORD,North America,Chicago,2 ms
-154.219.5.111,443,true,ORD,North America,Chicago,2 ms
-194.53.53.247,443,true,ORD,North America,Chicago,2 ms
-45.194.53.13,443,true,ORD,North America,Chicago,2 ms
-169.197.131.196,443,true,ORD,North America,Chicago,2 ms
-45.194.53.81,443,true,ORD,North America,Chicago,2 ms
-66.81.247.27,443,true,ORD,North America,Chicago,2 ms
-185.176.26.100,443,true,ORD,North America,Chicago,2 ms
-170.114.45.207,443,true,ORD,North America,Chicago,2 ms
-206.238.236.134,443,true,ORD,North America,Chicago,2 ms
-27.50.48.4,443,true,ORD,North America,Chicago,2 ms
-170.114.46.213,443,true,ORD,North America,Chicago,2 ms
-194.36.55.59,443,true,ORD,North America,Chicago,2 ms
-159.112.235.49,443,true,ORD,North America,Chicago,2 ms
-170.114.45.213,443,true,ORD,North America,Chicago,2 ms
-185.148.106.228,443,true,ORD,North America,Chicago,2 ms
-216.24.57.195,443,true,ORD,North America,Chicago,2 ms
-154.197.121.248,443,true,ORD,North America,Chicago,2 ms
-103.184.45.74,443,true,ORD,North America,Chicago,2 ms
-154.219.5.30,443,true,ORD,North America,Chicago,2 ms
-45.12.30.103,443,true,ORD,North America,Chicago,3 ms
-154.219.5.177,443,true,ORD,North America,Chicago,3 ms
-206.238.237.89,443,true,ORD,North America,Chicago,3 ms
-199.34.228.67,443,true,ORD,North America,Chicago,3 ms
-217.163.76.98,443,true,ORD,North America,Chicago,3 ms
-27.50.48.14,443,true,ORD,North America,Chicago,3 ms
-194.53.53.88,443,true,ORD,North America,Chicago,3 ms
-154.83.2.106,443,true,ORD,North America,Chicago,3 ms
-185.18.250.149,443,true,ORD,North America,Chicago,3 ms
-195.85.23.87,443,true,ORD,North America,Chicago,3 ms
-206.238.236.102,443,true,ORD,North America,Chicago,3 ms
-194.53.53.4,443,true,ORD,North America,Chicago,3 ms
-205.233.181.218,443,true,ORD,North America,Chicago,3 ms
-27.50.48.155,443,true,ORD,North America,Chicago,3 ms
-185.176.24.0,443,true,ORD,North America,Chicago,3 ms
-206.238.236.19,443,true,ORD,North America,Chicago,3 ms
-103.184.44.189,443,true,ORD,North America,Chicago,3 ms
-103.184.44.20,443,true,ORD,North America,Chicago,3 ms
-216.24.57.4,443,true,ORD,North America,Chicago,3 ms
-154.83.2.114,443,true,ORD,North America,Chicago,3 ms
-188.42.145.11,443,true,ORD,North America,Chicago,3 ms
-154.83.2.61,443,true,ORD,North America,Chicago,3 ms
-194.53.53.11,443,true,ORD,North America,Chicago,3 ms
-185.162.230.208,443,true,ORD,North America,Chicago,3 ms
-194.152.44.120,443,true,ORD,North America,Chicago,4 ms
-199.34.228.77,443,true,ORD,North America,Chicago,4 ms
-206.238.236.99,443,true,ORD,North America,Chicago,4 ms
-194.53.53.6,443,true,ORD,North America,Chicago,4 ms
-170.114.45.222,443,true,ORD,North America,Chicago,4 ms
-217.163.76.89,443,true,ORD,North America,Chicago,4 ms
-103.184.45.181,443,true,ORD,North America,Chicago,4 ms
-154.92.9.244,443,true,ORD,North America,Chicago,5 ms
-103.184.44.99,443,true,ORD,North America,Chicago,5 ms
-103.184.45.192,443,true,ORD,North America,Chicago,5 ms
-170.114.46.162,443,true,ORD,North America,Chicago,5 ms
-170.114.45.246,443,true,ORD,North America,Chicago,5 ms
-194.53.53.215,443,true,ORD,North America,Chicago,5 ms
-185.238.228.111,443,true,ORD,North America,Chicago,5 ms
-170.114.46.79,443,true,ORD,North America,Chicago,5 ms
-217.163.76.241,443,true,ORD,North America,Chicago,5 ms
-206.238.236.165,443,true,ORD,North America,Chicago,5 ms
-103.184.44.96,443,true,ORD,North America,Chicago,5 ms
-199.212.90.101,443,true,ORD,North America,Chicago,5 ms
-63.141.128.9,443,true,ORD,North America,Chicago,5 ms
-103.184.45.17,443,true,ORD,North America,Chicago,5 ms
-170.114.45.224,443,true,ORD,North America,Chicago,5 ms
-167.68.5.47,443,true,ORD,North America,Chicago,5 ms
-69.84.182.226,443,true,ORD,North America,Chicago,5 ms
-27.50.48.69,443,true,ORD,North America,Chicago,5 ms
-103.184.45.195,443,true,ORD,North America,Chicago,6 ms
-181.214.1.248,443,true,ORD,North America,Chicago,6 ms
-185.18.250.184,443,true,ORD,North America,Chicago,6 ms
-27.50.49.106,443,true,ORD,North America,Chicago,6 ms
-103.184.45.154,443,true,ORD,North America,Chicago,6 ms
-154.219.5.210,443,true,ORD,North America,Chicago,6 ms
-199.34.228.174,443,true,ORD,North America,Chicago,6 ms
-199.34.228.68,443,true,ORD,North America,Chicago,6 ms
-141.193.213.20,443,true,ORD,North America,Chicago,6 ms
-154.92.9.93,443,true,ORD,North America,Chicago,6 ms
-170.114.45.209,443,true,ORD,North America,Chicago,6 ms
-206.238.236.26,443,true,ORD,North America,Chicago,6 ms
-103.184.44.6,443,true,ORD,North America,Chicago,6 ms
-170.114.45.220,443,true,ORD,North America,Chicago,6 ms
-103.184.44.170,443,true,ORD,North America,Chicago,6 ms
-181.214.1.136,443,true,ORD,North America,Chicago,6 ms
-45.12.31.225,443,true,ORD,North America,Chicago,6 ms
-103.184.44.62,443,true,ORD,North America,Chicago,7 ms
-103.184.44.151,443,true,ORD,North America,Chicago,7 ms
-193.9.49.76,443,true,ORD,North America,Chicago,7 ms
-170.114.45.234,443,true,ORD,North America,Chicago,7 ms
-103.184.44.145,443,true,ORD,North America,Chicago,7 ms
-162.120.94.13,443,true,ORD,North America,Chicago,7 ms
-103.184.45.137,443,true,ORD,North America,Chicago,8 ms
-198.62.62.91,443,true,ORD,North America,Chicago,8 ms
-103.184.44.165,443,true,ORD,North America,Chicago,8 ms
-170.114.45.249,443,true,ORD,North America,Chicago,8 ms
-27.50.48.7,443,true,ORD,North America,Chicago,9 ms
-3.135.41.11,443,true,ORD,North America,Chicago,9 ms
-35.226.211.129,443,true,ORD,North America,Chicago,12 ms
-34.123.83.237,443,true,ORD,North America,Chicago,13 ms
-34.66.72.229,443,true,ORD,North America,Chicago,13 ms
-35.202.158.120,443,true,ORD,North America,Chicago,14 ms
-34.72.146.82,443,true,ORD,North America,Chicago,14 ms
-34.41.252.92,443,true,ORD,North America,Chicago,14 ms
-72.13.122.137,443,true,IAD,North America,Ashburn,15 ms
-5.161.210.3,443,true,IAD,North America,Ashburn,16 ms
-5.161.71.41,443,true,IAD,North America,Ashburn,16 ms
-129.80.116.250,443,true,IAD,North America,Ashburn,17 ms
-23.94.201.253,443,true,ATL,North America,Atlanta,17 ms
-5.161.191.23,443,true,IAD,North America,Ashburn,18 ms
-5.161.103.113,443,true,IAD,North America,Ashburn,19 ms
-3.80.196.29,443,true,IAD,North America,Ashburn,19 ms
-192.210.213.192,443,true,ATL,North America,Atlanta,19 ms
-155.138.209.175,443,true,ATL,North America,Atlanta,20 ms
-129.159.84.71,443,true,IAD,North America,Ashburn,20 ms
-150.136.241.40,443,true,IAD,North America,Ashburn,20 ms
-47.90.141.204,443,true,LAX,North America,Los Angeles,21 ms
-5.161.50.246,443,true,IAD,North America,Ashburn,21 ms
-193.122.197.111,443,true,IAD,North America,Ashburn,21 ms
-5.161.225.35,443,true,IAD,North America,Ashburn,22 ms
-3.89.69.2,443,true,IAD,North America,Ashburn,23 ms
-5.161.228.130,443,true,IAD,North America,Ashburn,23 ms
-172.245.19.17,443,true,ATL,North America,Atlanta,23 ms
-34.198.89.145,443,true,IAD,North America,Ashburn,24 ms
-168.138.71.220,443,true,YUL,North America,Montréal,25 ms
-138.197.104.86,443,true,EWR,North America,Newark,26 ms
-173.199.117.101,443,true,EWR,North America,Newark,27 ms
-135.148.4.33,443,true,IAD,North America,Ashburn,27 ms
-45.76.4.49,443,true,EWR,North America,Newark,27 ms
-45.77.109.191,443,true,EWR,North America,Newark,27 ms
-104.131.1.43,443,true,EWR,North America,Newark,27 ms
-104.248.63.25,443,true,EWR,North America,Newark,28 ms
-104.236.65.156,443,true,EWR,North America,Newark,28 ms
-167.172.152.157,443,true,EWR,North America,Newark,29 ms
-66.135.19.169,443,true,EWR,North America,Newark,29 ms
-104.207.132.10,443,true,EWR,North America,Newark,29 ms
-27.126.206.62,443,true,MIA,North America,Miami,31 ms
-108.61.85.153,443,true,EWR,North America,Newark,32 ms
-199.180.255.223,443,true,DFW,North America,Dallas,32 ms
-198.46.193.167,443,true,DFW,North America,Dallas,34 ms
-38.107.232.53,443,true,DFW,North America,Dallas,35 ms
-45.33.22.33,443,true,DFW,North America,Dallas,36 ms
-149.28.247.220,443,true,DFW,North America,Dallas,44 ms
-74.48.85.50,443,true,LAX,North America,Los Angeles,46 ms
-74.48.141.167,443,true,LAX,North America,Los Angeles,46 ms
-148.135.46.46,443,true,LAX,North America,Los Angeles,46 ms
-142.171.225.242,443,true,LAX,North America,Los Angeles,46 ms
-142.171.111.169,443,true,LAX,North America,Los Angeles,47 ms
-67.230.167.120,443,true,LAX,North America,Los Angeles,47 ms
-142.171.121.29,443,true,LAX,North America,Los Angeles,47 ms
-142.171.12.22,443,true,LAX,North America,Los Angeles,47 ms
-74.48.140.177,443,true,LAX,North America,Los Angeles,47 ms
-142.171.205.38,443,true,LAX,North America,Los Angeles,47 ms
-43.153.4.246,443,true,SJC,North America,San Jose,47 ms
-45.59.186.136,443,true,SJC,North America,San Jose,48 ms
-192.237.192.175,443,true,DFW,North America,Dallas,48 ms
-43.153.119.207,443,true,SJC,North America,San Jose,48 ms
-47.89.244.253,443,true,SJC,North America,San Jose,49 ms
-173.249.197.84,443,true,SJC,North America,San Jose,49 ms
-74.48.134.145,443,true,LAX,North America,Los Angeles,49 ms
-142.171.85.241,443,true,LAX,North America,Los Angeles,49 ms
-156.146.53.83,443,true,SJC,North America,San Jose,49 ms
-47.254.65.110,443,true,SJC,North America,San Jose,50 ms
-74.48.16.42,443,true,LAX,North America,Los Angeles,50 ms
-170.114.45.228,443,true,ORD,North America,Chicago,50 ms
-67.230.165.11,443,true,LAX,North America,Los Angeles,50 ms
-142.171.185.226,443,true,LAX,North America,Los Angeles,50 ms
-74.48.72.207,443,true,LAX,North America,Los Angeles,50 ms
-74.48.98.199,443,true,LAX,North America,Los Angeles,50 ms
-148.135.99.205,443,true,LAX,North America,Los Angeles,50 ms
-156.146.53.82,443,true,SJC,North America,San Jose,50 ms
-74.48.151.74,443,true,LAX,North America,Los Angeles,50 ms
-104.168.28.65,443,true,SJC,North America,San Jose,50 ms
-142.171.157.252,443,true,LAX,North America,Los Angeles,50 ms
-67.230.163.31,443,true,LAX,North America,Los Angeles,50 ms
-74.48.200.167,443,true,LAX,North America,Los Angeles,50 ms
-142.171.9.13,443,true,LAX,North America,Los Angeles,50 ms
-142.171.43.121,443,true,LAX,North America,Los Angeles,50 ms
-142.171.140.134,443,true,LAX,North America,Los Angeles,50 ms
-35.197.23.75,443,true,SEA,North America,Seattle,50 ms
-74.48.89.211,443,true,LAX,North America,Los Angeles,50 ms
-64.112.42.105,443,true,LAX,North America,Los Angeles,50 ms
-43.153.80.208,443,true,SJC,North America,San Jose,50 ms
-74.48.17.250,443,true,LAX,North America,Los Angeles,50 ms
-45.159.208.139,443,true,SJC,North America,San Jose,50 ms
-45.32.228.75,443,true,SEA,North America,Seattle,51 ms
-193.43.94.205,443,true,SJC,North America,San Jose,51 ms
-129.146.248.140,443,true,LAX,North America,Los Angeles,51 ms
-129.146.254.39,443,true,LAX,North America,Los Angeles,51 ms
-47.88.15.127,443,true,SJC,North America,San Jose,51 ms
-64.69.37.10,443,true,LAX,North America,Los Angeles,51 ms
-155.248.202.141,443,true,SJC,North America,San Jose,51 ms
-154.23.247.52,443,true,LAX,North America,Los Angeles,51 ms
-192.9.138.241,443,true,SJC,North America,San Jose,52 ms
-192.18.134.231,443,true,SJC,North America,San Jose,52 ms
-155.248.196.123,443,true,YVR,North America,Vancouver,52 ms
-129.146.220.190,443,true,LAX,North America,Los Angeles,52 ms
-152.67.231.219,443,true,SJC,North America,San Jose,52 ms
-45.76.247.142,443,true,SEA,North America,Seattle,52 ms
-129.146.133.33,443,true,LAX,North America,Los Angeles,52 ms
-192.18.134.28,443,true,SJC,North America,San Jose,52 ms
-45.76.245.127,443,true,SEA,North America,Seattle,52 ms
-173.249.207.151,443,true,SJC,North America,San Jose,52 ms
-152.67.254.70,443,true,SJC,North America,San Jose,52 ms
-43.153.103.203,443,true,SJC,North America,San Jose,53 ms
-142.171.219.19,443,true,LAX,North America,Los Angeles,53 ms
-64.23.138.62,443,true,SJC,North America,San Jose,53 ms
-148.135.66.205,443,true,LAX,North America,Los Angeles,53 ms
-142.171.177.167,443,true,LAX,North America,Los Angeles,53 ms
-23.94.212.4,443,true,SEA,North America,Seattle,53 ms
-146.190.155.154,443,true,SJC,North America,San Jose,53 ms
-64.23.181.202,443,true,SJC,North America,San Jose,53 ms
-192.9.159.65,443,true,SJC,North America,San Jose,53 ms
-192.9.250.241,443,true,SJC,North America,San Jose,54 ms
-146.190.114.215,443,true,SJC,North America,San Jose,55 ms
-150.230.34.116,443,true,SJC,North America,San Jose,55 ms
-143.198.130.24,443,true,SJC,North America,San Jose,56 ms
-84.32.44.80,443,true,LAX,North America,Los Angeles,56 ms
-98.158.193.72,443,true,LAX,North America,Los Angeles,56 ms
-129.146.46.164,443,true,LAX,North America,Los Angeles,61 ms
-152.70.155.147,443,true,LAX,North America,Los Angeles,62 ms
-216.238.71.107,443,true,DFW,North America,Dallas,65 ms
-129.146.240.62,443,true,LAX,North America,Los Angeles,68 ms
-144.21.51.110,443,true,LHR,Europe,London,93 ms
-140.238.65.48,443,true,LHR,Europe,London,94 ms
-141.147.97.37,443,true,LHR,Europe,London,99 ms
-141.145.199.188,443,true,CDG,Europe,Paris,99 ms
-2.59.36.84,443,true,AMS,Europe,Amsterdam,100 ms
-146.70.175.99,443,true,AMS,Europe,Amsterdam,100 ms
-163.5.187.104,443,true,AMS,Europe,Amsterdam,100 ms
-146.70.175.118,443,true,AMS,Europe,Amsterdam,100 ms
-141.148.229.106,443,true,AMS,Europe,Amsterdam,100 ms
-193.176.179.119,443,true,CDG,Europe,Paris,100 ms
-193.176.153.197,443,true,CDG,Europe,Paris,100 ms
-146.70.175.119,443,true,AMS,Europe,Amsterdam,101 ms
-146.70.175.108,443,true,AMS,Europe,Amsterdam,101 ms
-146.70.175.116,443,true,AMS,Europe,Amsterdam,101 ms
-193.176.158.51,443,true,CDG,Europe,Paris,101 ms
-146.70.175.171,443,true,AMS,Europe,Amsterdam,102 ms
-146.70.175.112,443,true,AMS,Europe,Amsterdam,102 ms
-146.70.175.114,443,true,AMS,Europe,Amsterdam,102 ms
-146.70.175.104,443,true,AMS,Europe,Amsterdam,102 ms
-193.176.153.198,443,true,CDG,Europe,Paris,102 ms
-146.70.175.106,443,true,AMS,Europe,Amsterdam,102 ms
-146.70.169.117,443,true,AMS,Europe,Amsterdam,102 ms
-146.70.175.103,443,true,AMS,Europe,Amsterdam,102 ms
-146.70.175.101,443,true,AMS,Europe,Amsterdam,102 ms
-144.24.200.164,443,true,MRS,Europe,Marseille,104 ms
-193.187.174.169,443,true,CDG,Europe,Paris,105 ms
-138.3.254.39,443,true,FRA,Europe,Frankfurt,105 ms
-141.144.232.159,443,true,FRA,Europe,Frankfurt,106 ms
-130.61.87.219,443,true,FRA,Europe,Frankfurt,106 ms
-130.61.83.37,443,true,FRA,Europe,Frankfurt,106 ms
-144.24.189.21,443,true,FRA,Europe,Frankfurt,106 ms
-130.61.239.203,443,true,FRA,Europe,Frankfurt,106 ms
-130.61.23.77,443,true,FRA,Europe,Frankfurt,106 ms
-150.230.149.208,443,true,FRA,Europe,Frankfurt,106 ms
-43.131.49.250,443,true,FRA,Europe,Frankfurt,106 ms
-129.151.221.152,443,true,ARN,Europe,Stockholm,113 ms
-152.67.65.201,443,true,MXP,Europe,Milan,114 ms
-144.24.243.207,443,true,ZRH,Europe,Zurich,114 ms
-3.120.8.31,443,true,FRA,Europe,Frankfurt,114 ms
-204.216.218.114,443,true,MXP,Europe,Milan,115 ms
-185.228.235.131,443,true,HEL,Europe,Helsinki,130 ms
-188.130.154.16,443,true,WAW,Europe,Warsaw,131 ms
-103.231.73.54,443,true,RIX,Europe,Riga,131 ms
-103.231.73.117,443,true,RIX,Europe,Riga,131 ms
-46.8.238.127,443,true,HEL,Europe,Helsinki,131 ms
-46.8.236.93,443,true,HEL,Europe,Helsinki,131 ms
-20.243.104.80,443,true,ICN,Asia Pacific,Seoul,142 ms
-154.31.113.72,443,true,NRT,Asia Pacific,Tokyo,142 ms
-43.153.181.217,443,true,NRT,Asia Pacific,Tokyo,142 ms
-3.112.21.102,443,true,NRT,Asia Pacific,Tokyo,142 ms
-172.104.120.67,443,true,NRT,Asia Pacific,Tokyo,142 ms
-54.92.17.121,443,true,NRT,Asia Pacific,Tokyo,142 ms
-176.97.73.20,443,true,NRT,Asia Pacific,Tokyo,142 ms
-18.183.158.211,443,true,NRT,Asia Pacific,Tokyo,143 ms
-5.226.48.84,443,true,NRT,Asia Pacific,Tokyo,143 ms
-172.104.127.132,443,true,NRT,Asia Pacific,Tokyo,143 ms
-38.54.88.194,443,true,NRT,Asia Pacific,Tokyo,143 ms
-45.32.25.171,443,true,NRT,Asia Pacific,Tokyo,144 ms
-45.77.130.245,443,true,NRT,Asia Pacific,Tokyo,144 ms
-38.180.29.115,443,true,NRT,Asia Pacific,Tokyo,145 ms
-45.76.220.61,443,true,NRT,Asia Pacific,Tokyo,145 ms
-13.230.34.30,443,true,NRT,Asia Pacific,Tokyo,146 ms
-8.209.217.106,443,true,NRT,Asia Pacific,Tokyo,146 ms
-132.145.81.117,443,true,ICN,Asia Pacific,Seoul,165 ms
-152.70.234.188,443,true,NRT,Asia Pacific,Tokyo,166 ms
-146.56.44.85,443,true,NRT,Asia Pacific,Tokyo,166 ms
-146.56.162.25,443,true,ICN,Asia Pacific,Seoul,166 ms
-152.70.249.67,443,true,ICN,Asia Pacific,Seoul,166 ms
-152.70.235.207,443,true,NRT,Asia Pacific,Tokyo,167 ms
-144.24.78.162,443,true,ICN,Asia Pacific,Seoul,168 ms
-140.238.1.158,443,true,ICN,Asia Pacific,Seoul,168 ms
-59.3.3.161,443,true,ICN,Asia Pacific,Seoul,168 ms
-158.180.68.56,443,true,ICN,Asia Pacific,Seoul,168 ms
-104.215.16.121,443,true,KIX,Asia Pacific,Osaka,170 ms
-138.2.122.191,443,true,ICN,Asia Pacific,Seoul,170 ms
-140.238.28.86,443,true,SJC,North America,San Jose,170 ms
-144.24.74.51,443,true,ICN,Asia Pacific,Seoul,171 ms
-129.154.50.159,443,true,ICN,Asia Pacific,Seoul,171 ms
-8.213.137.24,443,true,ICN,Asia Pacific,Seoul,171 ms
-103.137.63.3,443,true,KHH,Asia Pacific,Kaohsiung City,173 ms
-144.24.80.56,443,true,ICN,Asia Pacific,Seoul,173 ms
-144.24.85.158,443,true,ICN,Asia Pacific,Seoul,174 ms
-35.201.203.106,443,true,TPE,Asia Pacific,Taipei,174 ms
-166.0.198.88,443,true,TPE,Asia Pacific,Taipei,174 ms
-103.137.63.2,443,true,KHH,Asia Pacific,Kaohsiung City,175 ms
-35.206.250.1,443,true,NRT,Asia Pacific,Tokyo,177 ms
-156.251.183.197,443,true,HKG,Asia Pacific,Hong Kong,180 ms
-43.199.36.32,443,true,HKG,Asia Pacific,Hong Kong,182 ms
-18.167.194.154,443,true,HKG,Asia Pacific,Hong Kong,185 ms
-45.78.23.3,443,true,HKG,Asia Pacific,Hong Kong,185 ms
-8.210.92.27,443,true,HKG,Asia Pacific,Hong Kong,186 ms
-219.76.13.164,443,true,HKG,Asia Pacific,Hong Kong,186 ms
-47.57.245.232,443,true,SJC,North America,San Jose,187 ms
-8.210.118.122,443,true,HKG,Asia Pacific,Hong Kong,187 ms
-43.129.171.137,443,true,HKG,Asia Pacific,Hong Kong,187 ms
-154.12.177.111,443,true,HKG,Asia Pacific,Hong Kong,187 ms
-219.76.13.183,443,true,HKG,Asia Pacific,Hong Kong,187 ms
-47.242.60.161,443,true,HKG,Asia Pacific,Hong Kong,188 ms
-43.154.96.33,443,true,HKG,Asia Pacific,Hong Kong,189 ms
-47.243.173.187,443,true,HKG,Asia Pacific,Hong Kong,189 ms
-18.162.97.34,443,true,HKG,Asia Pacific,Hong Kong,189 ms
-18.167.20.205,443,true,HKG,Asia Pacific,Hong Kong,189 ms
-47.238.131.39,443,true,HKG,Asia Pacific,Hong Kong,189 ms
-8.217.121.210,443,true,HKG,Asia Pacific,Hong Kong,190 ms
-47.76.189.214,443,true,HKG,Asia Pacific,Hong Kong,190 ms
-8.217.49.234,443,true,HKG,Asia Pacific,Hong Kong,190 ms
-103.172.134.143,443,true,HKG,Asia Pacific,Hong Kong,190 ms
-8.218.87.104,443,true,HKG,Asia Pacific,Hong Kong,191 ms
-47.243.118.63,443,true,HKG,Asia Pacific,Hong Kong,191 ms
-47.76.218.163,443,true,HKG,Asia Pacific,Hong Kong,191 ms
-47.242.176.185,443,true,HKG,Asia Pacific,Hong Kong,191 ms
-38.150.15.137,443,true,HKG,Asia Pacific,Hong Kong,191 ms
-47.242.202.230,443,true,HKG,Asia Pacific,Hong Kong,192 ms
-165.154.41.40,443,true,HKG,Asia Pacific,Hong Kong,192 ms
-140.238.195.98,443,true,SYD,Oceania,Sydney,192 ms
-47.57.13.107,443,true,HKG,Asia Pacific,Hong Kong,192 ms
-58.176.95.46,443,true,HKG,Asia Pacific,Hong Kong,193 ms
-8.218.204.128,443,true,HKG,Asia Pacific,Hong Kong,193 ms
-8.212.43.8,443,true,SJC,North America,San Jose,193 ms
-8.218.63.172,443,true,HKG,Asia Pacific,Hong Kong,193 ms
-47.57.233.126,443,true,SJC,North America,San Jose,194 ms
-47.57.14.118,443,true,SJC,North America,San Jose,194 ms
-43.155.22.176,443,true,HKG,Asia Pacific,Hong Kong,195 ms
-38.207.172.42,443,true,HKG,Asia Pacific,Hong Kong,198 ms
-103.30.77.35,443,true,HKG,Asia Pacific,Hong Kong,198 ms
-8.219.210.64,443,true,SIN,Asia Pacific,Singapore,205 ms
-8.219.54.203,443,true,SIN,Asia Pacific,Singapore,205 ms
-8.222.128.32,443,true,SIN,Asia Pacific,Singapore,205 ms
-8.219.159.151,443,true,SIN,Asia Pacific,Singapore,205 ms
-8.219.201.245,443,true,SIN,Asia Pacific,Singapore,205 ms
-8.219.161.129,443,true,SIN,Asia Pacific,Singapore,205 ms
-8.222.193.65,443,true,SIN,Asia Pacific,Singapore,205 ms
-8.219.67.133,443,true,SIN,Asia Pacific,Singapore,205 ms
-51.79.254.182,443,true,SIN,Asia Pacific,Singapore,205 ms
-8.219.190.62,443,true,SIN,Asia Pacific,Singapore,205 ms
-8.222.164.209,443,true,SIN,Asia Pacific,Singapore,205 ms
-8.219.198.139,443,true,SIN,Asia Pacific,Singapore,205 ms
-8.222.214.231,443,true,SIN,Asia Pacific,Singapore,205 ms
-8.222.208.38,443,true,SIN,Asia Pacific,Singapore,206 ms
-47.236.117.48,443,true,SIN,Asia Pacific,Singapore,206 ms
-15.235.162.49,443,true,SIN,Asia Pacific,Singapore,206 ms
-8.219.222.98,443,true,SIN,Asia Pacific,Singapore,206 ms
-47.236.164.215,443,true,SIN,Asia Pacific,Singapore,206 ms
-8.219.66.156,443,true,NRT,Asia Pacific,Tokyo,206 ms
-8.219.200.145,443,true,SIN,Asia Pacific,Singapore,206 ms
-8.219.237.250,443,true,SIN,Asia Pacific,Singapore,206 ms
-8.222.181.117,443,true,SIN,Asia Pacific,Singapore,206 ms
-8.219.109.183,443,true,SIN,Asia Pacific,Singapore,206 ms
-8.219.70.151,443,true,SIN,Asia Pacific,Singapore,206 ms
-8.219.42.72,443,true,SIN,Asia Pacific,Singapore,206 ms
-8.219.174.142,443,true,SIN,Asia Pacific,Singapore,206 ms
-8.219.103.65,443,true,SIN,Asia Pacific,Singapore,207 ms
-13.228.50.161,443,true,SIN,Asia Pacific,Singapore,207 ms
-129.150.50.63,443,true,SIN,Asia Pacific,Singapore,207 ms
-8.219.144.168,443,true,SIN,Asia Pacific,Singapore,207 ms
-52.77.110.99,443,true,SIN,Asia Pacific,Singapore,207 ms
-8.222.128.75,443,true,SIN,Asia Pacific,Singapore,208 ms
-8.219.60.54,443,true,SIN,Asia Pacific,Singapore,208 ms
-8.219.240.160,443,true,SIN,Asia Pacific,Singapore,208 ms
-8.219.174.213,443,true,SIN,Asia Pacific,Singapore,208 ms
-104.248.145.216,443,true,SIN,Asia Pacific,Singapore,208 ms
-8.222.204.128,443,true,SIN,Asia Pacific,Singapore,208 ms
-8.219.5.10,443,true,SIN,Asia Pacific,Singapore,208 ms
-8.219.164.237,443,true,SIN,Asia Pacific,Singapore,208 ms
-15.235.167.49,443,true,SIN,Asia Pacific,Singapore,208 ms
-8.219.50.180,443,true,SIN,Asia Pacific,Singapore,208 ms
-8.222.222.64,443,true,SIN,Asia Pacific,Singapore,208 ms
-8.219.0.162,443,true,SIN,Asia Pacific,Singapore,208 ms
-47.245.86.230,443,true,SIN,Asia Pacific,Singapore,209 ms
-8.219.199.220,443,true,SIN,Asia Pacific,Singapore,209 ms
-8.219.193.202,443,true,SIN,Asia Pacific,Singapore,209 ms
-8.219.126.240,443,true,SIN,Asia Pacific,Singapore,209 ms
-8.219.110.248,443,true,SIN,Asia Pacific,Singapore,209 ms
-8.219.111.175,443,true,SIN,Asia Pacific,Singapore,209 ms
-43.156.181.203,443,true,SIN,Asia Pacific,Singapore,209 ms
-47.236.146.249,443,true,SIN,Asia Pacific,Singapore,209 ms
-8.219.98.13,443,true,SIN,Asia Pacific,Singapore,209 ms
-8.222.137.192,443,true,SIN,Asia Pacific,Singapore,209 ms
-138.2.99.97,443,true,SIN,Asia Pacific,Singapore,209 ms
-18.141.204.88,443,true,SIN,Asia Pacific,Singapore,209 ms
-8.222.226.92,443,true,SIN,Asia Pacific,Singapore,209 ms
-13.228.170.74,443,true,SIN,Asia Pacific,Singapore,210 ms
-8.219.198.34,443,true,SIN,Asia Pacific,Singapore,210 ms
-8.219.201.8,443,true,SIN,Asia Pacific,Singapore,210 ms
-8.219.124.227,443,true,SIN,Asia Pacific,Singapore,210 ms
-47.236.145.85,443,true,SIN,Asia Pacific,Singapore,210 ms
-8.219.78.1,443,true,SIN,Asia Pacific,Singapore,210 ms
-8.219.114.201,443,true,SIN,Asia Pacific,Singapore,211 ms
-13.250.131.37,443,true,SIN,Asia Pacific,Singapore,211 ms
-47.236.130.95,443,true,SIN,Asia Pacific,Singapore,211 ms
-141.147.186.227,443,true,NRT,Asia Pacific,Tokyo,211 ms
-168.138.46.67,443,true,KIX,Asia Pacific,Osaka,211 ms
-8.219.111.147,443,true,SIN,Asia Pacific,Singapore,211 ms
-8.219.84.214,443,true,SIN,Asia Pacific,Singapore,212 ms
-8.219.106.156,443,true,SIN,Asia Pacific,Singapore,212 ms
-138.2.18.184,443,true,NRT,Asia Pacific,Tokyo,212 ms
-8.219.51.211,443,true,SIN,Asia Pacific,Singapore,212 ms
-141.147.163.68,443,true,NRT,Asia Pacific,Tokyo,212 ms
-168.138.165.174,443,true,SIN,Asia Pacific,Singapore,212 ms
-8.219.170.232,443,true,SIN,Asia Pacific,Singapore,212 ms
-129.150.37.203,443,true,SIN,Asia Pacific,Singapore,213 ms
-140.238.37.208,443,true,NRT,Asia Pacific,Tokyo,213 ms
-139.185.34.131,443,true,CDG,Europe,Paris,213 ms
-129.227.139.137,443,true,HKG,Asia Pacific,Hong Kong,214 ms
-64.110.103.69,443,true,KIX,Asia Pacific,Osaka,214 ms
-8.219.4.122,443,true,SIN,Asia Pacific,Singapore,214 ms
-138.2.56.246,443,true,KIX,Asia Pacific,Osaka,214 ms
-139.162.54.112,443,true,SIN,Asia Pacific,Singapore,215 ms
-138.2.104.102,443,true,SIN,Asia Pacific,Singapore,216 ms
-150.230.6.108,443,true,KIX,Asia Pacific,Osaka,217 ms
-103.127.248.51,443,true,HKG,Asia Pacific,Hong Kong,217 ms
-152.69.219.32,443,true,SIN,Asia Pacific,Singapore,218 ms
-172.93.188.157,443,true,HKG,Asia Pacific,Hong Kong,219 ms
-158.101.71.60,443,true,NRT,Asia Pacific,Tokyo,220 ms
-140.238.33.161,443,true,NRT,Asia Pacific,Tokyo,227 ms
-168.138.194.74,443,true,NRT,Asia Pacific,Tokyo,227 ms
-146.56.99.115,443,true,SIN,Asia Pacific,Singapore,232 ms
-152.67.190.105,443,true,HYD,Asia Pacific,Hyderabad,245 ms
-141.147.190.128,443,true,NRT,Asia Pacific,Tokyo,246 ms
-203.89.8.107,443,true,HKG,Asia Pacific,Hong Kong,246 ms
-152.32.130.241,443,true,LAX,North America,Los Angeles,329 ms
-118.26.39.145,443,true,LAX,North America,Los Angeles,330 ms
-152.32.239.228,443,true,LAX,North America,Los Angeles,332 ms
+185.238.228.130,443,true,SJC,North America,San Jose,1 ms
+206.238.236.49,443,true,SJC,North America,San Jose,1 ms
+154.92.9.244,443,true,SJC,North America,San Jose,1 ms
+170.114.45.237,443,true,SJC,North America,San Jose,1 ms
+27.50.48.106,443,true,SJC,North America,San Jose,1 ms
+27.50.48.4,443,true,SJC,North America,San Jose,1 ms
+194.53.53.79,443,true,SJC,North America,San Jose,1 ms
+103.184.44.215,443,true,SJC,North America,San Jose,1 ms
+185.176.26.118,443,true,SJC,North America,San Jose,1 ms
+63.141.128.9,443,true,SJC,North America,San Jose,1 ms
+170.114.45.238,443,true,SJC,North America,San Jose,1 ms
+199.34.228.69,443,true,SJC,North America,San Jose,1 ms
+31.43.179.68,443,true,SJC,North America,San Jose,1 ms
+199.34.228.75,443,true,SJC,North America,San Jose,1 ms
+103.184.45.57,443,true,SJC,North America,San Jose,1 ms
+45.131.208.131,443,true,SJC,North America,San Jose,1 ms
+27.50.49.34,443,true,SJC,North America,San Jose,1 ms
+206.238.236.251,443,true,SJC,North America,San Jose,1 ms
+216.24.57.252,443,true,SJC,North America,San Jose,1 ms
+199.34.228.175,443,true,SJC,North America,San Jose,1 ms
+45.159.217.134,443,true,SJC,North America,San Jose,1 ms
+199.34.228.44,443,true,SJC,North America,San Jose,1 ms
+199.212.90.206,443,true,SJC,North America,San Jose,1 ms
+185.109.21.17,443,true,SJC,North America,San Jose,1 ms
+170.114.45.227,443,true,SJC,North America,San Jose,1 ms
+27.50.48.42,443,true,SJC,North America,San Jose,1 ms
+170.114.45.229,443,true,SJC,North America,San Jose,1 ms
+181.214.1.244,443,true,SJC,North America,San Jose,1 ms
+199.34.228.57,443,true,SJC,North America,San Jose,1 ms
+27.50.48.7,443,true,SJC,North America,San Jose,1 ms
+199.212.90.150,443,true,SJC,North America,San Jose,1 ms
+103.184.44.87,443,true,SJC,North America,San Jose,1 ms
+170.114.45.248,443,true,SJC,North America,San Jose,1 ms
+205.233.181.168,443,true,SJC,North America,San Jose,1 ms
+103.184.44.20,443,true,SJC,North America,San Jose,1 ms
+103.184.44.151,443,true,SJC,North America,San Jose,1 ms
+194.53.53.47,443,true,SJC,North America,San Jose,1 ms
+103.184.44.51,443,true,SJC,North America,San Jose,1 ms
+164.38.155.17,443,true,SJC,North America,San Jose,1 ms
+91.193.58.18,443,true,SJC,North America,San Jose,1 ms
+206.238.236.252,443,true,SJC,North America,San Jose,1 ms
+195.85.59.161,443,true,SJC,North America,San Jose,1 ms
+194.53.53.34,443,true,SJC,North America,San Jose,1 ms
+185.135.9.167,443,true,SJC,North America,San Jose,1 ms
+159.246.55.211,443,true,SJC,North America,San Jose,1 ms
+194.53.53.26,443,true,SJC,North America,San Jose,1 ms
+156.146.53.83,443,true,SJC,North America,San Jose,1 ms
+154.83.2.142,443,true,SJC,North America,San Jose,1 ms
+181.214.1.248,443,true,SJC,North America,San Jose,1 ms
+206.238.236.38,443,true,SJC,North America,San Jose,1 ms
+170.114.45.210,443,true,SJC,North America,San Jose,1 ms
+154.197.121.248,443,true,SJC,North America,San Jose,1 ms
+194.53.53.248,443,true,SJC,North America,San Jose,1 ms
+194.53.53.126,443,true,SJC,North America,San Jose,1 ms
+103.184.44.106,443,true,SJC,North America,San Jose,1 ms
+216.24.57.4,443,true,SJC,North America,San Jose,1 ms
+94.140.0.180,443,true,SJC,North America,San Jose,1 ms
+103.184.44.38,443,true,SJC,North America,San Jose,1 ms
+154.92.9.50,443,true,SJC,North America,San Jose,1 ms
+206.238.236.253,443,true,SJC,North America,San Jose,1 ms
+103.184.45.180,443,true,SJC,North America,San Jose,1 ms
+154.197.121.13,443,true,SJC,North America,San Jose,1 ms
+194.53.53.6,443,true,SJC,North America,San Jose,1 ms
+170.114.45.206,443,true,SJC,North America,San Jose,1 ms
+170.114.45.219,443,true,SJC,North America,San Jose,1 ms
+103.184.45.154,443,true,SJC,North America,San Jose,1 ms
+170.114.46.162,443,true,SJC,North America,San Jose,1 ms
+154.219.5.210,443,true,SJC,North America,San Jose,1 ms
+103.169.142.0,443,true,SJC,North America,San Jose,1 ms
+185.238.228.39,443,true,SJC,North America,San Jose,1 ms
+185.162.230.208,443,true,SJC,North America,San Jose,1 ms
+194.53.53.252,443,true,SJC,North America,San Jose,1 ms
+188.42.89.159,443,true,SJC,North America,San Jose,1 ms
+31.43.179.156,443,true,SJC,North America,San Jose,1 ms
+185.18.250.184,443,true,SJC,North America,San Jose,1 ms
+103.184.44.62,443,true,SJC,North America,San Jose,1 ms
+156.238.18.200,443,true,SJC,North America,San Jose,1 ms
+45.159.219.74,443,true,SJC,North America,San Jose,1 ms
+217.163.76.113,443,true,SJC,North America,San Jose,1 ms
+103.184.44.145,443,true,SJC,North America,San Jose,1 ms
+199.34.228.72,443,true,SJC,North America,San Jose,1 ms
+170.114.45.212,443,true,SJC,North America,San Jose,1 ms
+199.34.228.74,443,true,SJC,North America,San Jose,1 ms
+216.116.134.198,443,true,SJC,North America,San Jose,1 ms
+66.81.247.210,443,true,SJC,North America,San Jose,1 ms
+170.114.46.213,443,true,SJC,North America,San Jose,1 ms
+217.163.76.186,443,true,SJC,North America,San Jose,1 ms
+162.120.94.62,443,true,SJC,North America,San Jose,1 ms
+69.84.182.229,443,true,SJC,North America,San Jose,1 ms
+170.114.45.218,443,true,SJC,North America,San Jose,1 ms
+192.200.160.47,443,true,SJC,North America,San Jose,1 ms
+217.163.76.127,443,true,SJC,North America,San Jose,1 ms
+194.53.53.11,443,true,SJC,North America,San Jose,1 ms
+185.176.24.210,443,true,SJC,North America,San Jose,1 ms
+154.83.2.106,443,true,SJC,North America,San Jose,1 ms
+194.36.55.59,443,true,SJC,North America,San Jose,1 ms
+103.184.45.8,443,true,SJC,North America,San Jose,1 ms
+66.81.247.230,443,true,SJC,North America,San Jose,1 ms
+103.184.44.99,443,true,SJC,North America,San Jose,1 ms
+27.50.48.0,443,true,SJC,North America,San Jose,1 ms
+154.92.9.40,443,true,SJC,North America,San Jose,1 ms
+199.34.228.160,443,true,SJC,North America,San Jose,1 ms
+206.238.236.16,443,true,SJC,North America,San Jose,1 ms
+170.114.45.239,443,true,SJC,North America,San Jose,1 ms
+103.184.44.221,443,true,SJC,North America,San Jose,1 ms
+154.92.9.156,443,true,SJC,North America,San Jose,1 ms
+170.114.46.79,443,true,SJC,North America,San Jose,1 ms
+199.34.228.10,443,true,SJC,North America,San Jose,1 ms
+27.50.49.64,443,true,SJC,North America,San Jose,1 ms
+199.34.228.191,443,true,SJC,North America,San Jose,1 ms
+103.184.45.137,443,true,SJC,North America,San Jose,1 ms
+103.184.44.77,443,true,SJC,North America,San Jose,1 ms
+27.50.48.3,443,true,SJC,North America,San Jose,1 ms
+199.34.228.41,443,true,SJC,North America,San Jose,1 ms
+170.114.45.236,443,true,SJC,North America,San Jose,1 ms
+27.50.48.6,443,true,SJC,North America,San Jose,1 ms
+170.114.45.211,443,true,SJC,North America,San Jose,1 ms
+154.219.5.30,443,true,SJC,North America,San Jose,1 ms
+31.12.75.178,443,true,SJC,North America,San Jose,1 ms
+170.114.46.152,443,true,SJC,North America,San Jose,1 ms
+154.83.2.186,443,true,SJC,North America,San Jose,1 ms
+199.34.228.56,443,true,SJC,North America,San Jose,1 ms
+103.184.44.254,443,true,SJC,North America,San Jose,1 ms
+199.34.228.78,443,true,SJC,North America,San Jose,1 ms
+217.163.76.89,443,true,SJC,North America,San Jose,1 ms
+154.211.8.95,443,true,SJC,North America,San Jose,1 ms
+199.212.90.44,443,true,SJC,North America,San Jose,1 ms
+199.34.228.68,443,true,SJC,North America,San Jose,1 ms
+206.238.236.48,443,true,SJC,North America,San Jose,1 ms
+195.245.221.233,443,true,SJC,North America,San Jose,1 ms
+154.211.8.138,443,true,SJC,North America,San Jose,1 ms
+205.233.181.218,443,true,SJC,North America,San Jose,1 ms
+199.34.228.77,443,true,SJC,North America,San Jose,1 ms
+66.81.247.27,443,true,SJC,North America,San Jose,1 ms
+194.53.53.194,443,true,SJC,North America,San Jose,1 ms
+103.184.44.88,443,true,SJC,North America,San Jose,1 ms
+170.114.45.209,443,true,SJC,North America,San Jose,1 ms
+103.184.45.200,443,true,SJC,North America,San Jose,1 ms
+154.83.2.2,443,true,SJC,North America,San Jose,1 ms
+159.246.55.180,443,true,SJC,North America,San Jose,1 ms
+198.62.62.91,443,true,SJC,North America,San Jose,1 ms
+154.83.2.16,443,true,SJC,North America,San Jose,1 ms
+103.184.45.116,443,true,SJC,North America,San Jose,1 ms
+31.43.179.115,443,true,SJC,North America,San Jose,1 ms
+170.114.45.240,443,true,SJC,North America,San Jose,1 ms
+170.114.45.235,443,true,SJC,North America,San Jose,1 ms
+194.53.53.232,443,true,SJC,North America,San Jose,1 ms
+170.114.45.234,443,true,SJC,North America,San Jose,1 ms
+206.238.237.89,443,true,SJC,North America,San Jose,1 ms
+217.163.76.92,443,true,SJC,North America,San Jose,1 ms
+154.211.8.2,443,true,SJC,North America,San Jose,1 ms
+160.153.0.131,443,true,SJC,North America,San Jose,1 ms
+194.53.53.9,443,true,SJC,North America,San Jose,1 ms
+194.152.44.120,443,true,SJC,North America,San Jose,1 ms
+154.92.9.232,443,true,SJC,North America,San Jose,1 ms
+103.184.45.185,443,true,SJC,North America,San Jose,1 ms
+185.238.228.71,443,true,SJC,North America,San Jose,1 ms
+217.163.76.79,443,true,SJC,North America,San Jose,1 ms
+103.184.44.3,443,true,SJC,North America,San Jose,1 ms
+103.184.45.6,443,true,SJC,North America,San Jose,1 ms
+141.193.213.11,443,true,SJC,North America,San Jose,1 ms
+170.114.45.213,443,true,SJC,North America,San Jose,1 ms
+141.193.213.83,443,true,SJC,North America,San Jose,1 ms
+27.50.48.10,443,true,SJC,North America,San Jose,1 ms
+185.176.26.100,443,true,SJC,North America,San Jose,1 ms
+27.50.49.192,443,true,SJC,North America,San Jose,1 ms
+31.43.179.247,443,true,SJC,North America,San Jose,1 ms
+173.249.197.84,443,true,SJC,North America,San Jose,1 ms
+103.184.45.36,443,true,SJC,North America,San Jose,1 ms
+103.184.45.181,443,true,SJC,North America,San Jose,1 ms
+103.184.45.26,443,true,SJC,North America,San Jose,1 ms
+217.163.76.76,443,true,SJC,North America,San Jose,1 ms
+156.238.18.39,443,true,SJC,North America,San Jose,1 ms
+206.238.236.102,443,true,SJC,North America,San Jose,1 ms
+170.114.45.233,443,true,SJC,North America,San Jose,1 ms
+194.53.53.3,443,true,SJC,North America,San Jose,1 ms
+141.193.213.10,443,true,SJC,North America,San Jose,1 ms
+185.238.228.111,443,true,SJC,North America,San Jose,1 ms
+173.249.207.151,443,true,SJC,North America,San Jose,1 ms
+206.238.237.253,443,true,SJC,North America,San Jose,1 ms
+199.34.228.55,443,true,SJC,North America,San Jose,1 ms
+170.114.45.221,443,true,SJC,North America,San Jose,1 ms
+154.83.2.195,443,true,SJC,North America,San Jose,1 ms
+194.53.53.147,443,true,SJC,North America,San Jose,1 ms
+103.184.44.113,443,true,SJC,North America,San Jose,1 ms
+170.114.45.225,443,true,SJC,North America,San Jose,2 ms
+103.184.45.168,443,true,SJC,North America,San Jose,2 ms
+194.53.53.151,443,true,SJC,North America,San Jose,2 ms
+27.50.48.108,443,true,SJC,North America,San Jose,2 ms
+164.38.155.110,443,true,SJC,North America,San Jose,2 ms
+206.238.236.134,443,true,SJC,North America,San Jose,2 ms
+154.219.5.189,443,true,SJC,North America,San Jose,2 ms
+217.163.76.34,443,true,SJC,North America,San Jose,2 ms
+199.34.228.50,443,true,SJC,North America,San Jose,2 ms
+159.112.235.49,443,true,SJC,North America,San Jose,2 ms
+103.184.44.168,443,true,SJC,North America,San Jose,2 ms
+194.53.53.165,443,true,SJC,North America,San Jose,2 ms
+154.92.9.47,443,true,SJC,North America,San Jose,2 ms
+154.83.2.114,443,true,SJC,North America,San Jose,2 ms
+103.184.45.204,443,true,SJC,North America,San Jose,2 ms
+103.184.44.202,443,true,SJC,North America,San Jose,2 ms
+104.168.28.65,443,true,SJC,North America,San Jose,2 ms
+69.84.182.226,443,true,SJC,North America,San Jose,2 ms
+154.197.121.99,443,true,SJC,North America,San Jose,2 ms
+103.184.45.192,443,true,SJC,North America,San Jose,2 ms
+170.114.45.242,443,true,SJC,North America,San Jose,2 ms
+199.34.228.71,443,true,SJC,North America,San Jose,2 ms
+27.50.48.155,443,true,SJC,North America,San Jose,2 ms
+103.184.45.2,443,true,SJC,North America,San Jose,2 ms
+103.184.44.114,443,true,SJC,North America,San Jose,2 ms
+199.34.228.73,443,true,SJC,North America,San Jose,2 ms
+170.114.46.119,443,true,SJC,North America,San Jose,2 ms
+154.92.9.93,443,true,SJC,North America,San Jose,2 ms
+141.193.213.20,443,true,SJC,North America,San Jose,2 ms
+185.170.166.88,443,true,SJC,North America,San Jose,2 ms
+194.53.53.109,443,true,SJC,North America,San Jose,2 ms
+27.50.48.157,443,true,SJC,North America,San Jose,2 ms
+45.159.218.211,443,true,SJC,North America,San Jose,2 ms
+199.212.90.101,443,true,SJC,North America,San Jose,2 ms
+195.85.23.80,443,true,SJC,North America,San Jose,2 ms
+192.0.54.102,443,true,SJC,North America,San Jose,2 ms
+206.238.236.13,443,true,SJC,North America,San Jose,2 ms
+194.53.53.4,443,true,SJC,North America,San Jose,2 ms
+206.238.236.165,443,true,SJC,North America,San Jose,2 ms
+170.114.45.230,443,true,SJC,North America,San Jose,2 ms
+185.148.106.228,443,true,SJC,North America,San Jose,2 ms
+185.176.24.0,443,true,SJC,North America,San Jose,2 ms
+45.194.53.13,443,true,SJC,North America,San Jose,2 ms
+103.184.44.75,443,true,SJC,North America,San Jose,2 ms
+170.114.45.217,443,true,SJC,North America,San Jose,2 ms
+103.184.45.248,443,true,SJC,North America,San Jose,2 ms
+141.193.213.252,443,true,SJC,North America,San Jose,2 ms
+194.53.53.215,443,true,SJC,North America,San Jose,2 ms
+103.184.44.165,443,true,SJC,North America,San Jose,2 ms
+195.85.59.95,443,true,SJC,North America,San Jose,2 ms
+217.163.76.254,443,true,SJC,North America,San Jose,2 ms
+194.53.53.45,443,true,SJC,North America,San Jose,2 ms
+195.85.23.157,443,true,SJC,North America,San Jose,2 ms
+185.18.250.149,443,true,SJC,North America,San Jose,2 ms
+194.53.53.95,443,true,SJC,North America,San Jose,2 ms
+170.114.45.224,443,true,SJC,North America,San Jose,2 ms
+103.184.45.253,443,true,SJC,North America,San Jose,2 ms
+206.238.237.91,443,true,SJC,North America,San Jose,2 ms
+199.212.90.50,443,true,SJC,North America,San Jose,2 ms
+162.120.94.13,443,true,SJC,North America,San Jose,2 ms
+47.88.15.127,443,true,SJC,North America,San Jose,2 ms
+154.211.8.61,443,true,SJC,North America,San Jose,2 ms
+170.114.45.205,443,true,SJC,North America,San Jose,2 ms
+103.184.45.195,443,true,SJC,North America,San Jose,2 ms
+45.133.247.151,443,true,SJC,North America,San Jose,2 ms
+194.53.53.111,443,true,SJC,North America,San Jose,2 ms
+170.114.45.223,443,true,SJC,North America,San Jose,2 ms
+45.159.208.139,443,true,SJC,North America,San Jose,2 ms
+199.34.228.76,443,true,SJC,North America,San Jose,2 ms
+185.238.228.239,443,true,SJC,North America,San Jose,2 ms
+206.238.237.254,443,true,SJC,North America,San Jose,2 ms
+103.184.45.27,443,true,SJC,North America,San Jose,2 ms
+188.42.145.11,443,true,SJC,North America,San Jose,2 ms
+150.230.34.116,443,true,SJC,North America,San Jose,2 ms
+199.181.197.246,443,true,SJC,North America,San Jose,2 ms
+103.184.44.211,443,true,SJC,North America,San Jose,2 ms
+192.9.138.241,443,true,SJC,North America,San Jose,2 ms
+152.67.231.219,443,true,SJC,North America,San Jose,2 ms
+192.18.134.28,443,true,SJC,North America,San Jose,2 ms
+152.67.254.70,443,true,SJC,North America,San Jose,2 ms
+192.9.159.65,443,true,SJC,North America,San Jose,2 ms
+155.248.202.141,443,true,SJC,North America,San Jose,2 ms
+31.22.116.9,443,true,SJC,North America,San Jose,2 ms
+193.43.94.205,443,true,SJC,North America,San Jose,2 ms
+192.9.250.241,443,true,SJC,North America,San Jose,2 ms
+27.50.49.75,443,true,SJC,North America,San Jose,2 ms
+199.34.228.164,443,true,SJC,North America,San Jose,2 ms
+143.198.130.24,443,true,SJC,North America,San Jose,2 ms
+43.153.119.207,443,true,SJC,North America,San Jose,2 ms
+192.18.140.32,443,true,SJC,North America,San Jose,2 ms
+47.254.65.110,443,true,SJC,North America,San Jose,2 ms
+170.114.45.216,443,true,SJC,North America,San Jose,2 ms
+154.219.5.4,443,true,SJC,North America,San Jose,2 ms
+141.193.213.21,443,true,SJC,North America,San Jose,2 ms
+192.18.134.231,443,true,SJC,North America,San Jose,2 ms
+75.2.32.4,443,true,IAD,North America,Ashburn,3 ms
+154.92.9.82,443,true,SJC,North America,San Jose,3 ms
+194.53.53.8,443,true,SJC,North America,San Jose,3 ms
+27.50.48.166,443,true,SJC,North America,San Jose,3 ms
+43.153.103.203,443,true,SJC,North America,San Jose,3 ms
+154.219.5.97,443,true,SJC,North America,San Jose,3 ms
+45.194.53.179,443,true,SJC,North America,San Jose,3 ms
+170.114.46.166,443,true,SJC,North America,San Jose,3 ms
+146.190.114.215,443,true,SJC,North America,San Jose,3 ms
+146.190.155.154,443,true,SJC,North America,San Jose,3 ms
+154.92.9.158,443,true,SJC,North America,San Jose,3 ms
+103.184.45.17,443,true,SJC,North America,San Jose,3 ms
+64.23.181.202,443,true,SJC,North America,San Jose,3 ms
+43.153.80.208,443,true,SJC,North America,San Jose,4 ms
+185.238.228.79,443,true,SJC,North America,San Jose,4 ms
+45.12.30.103,443,true,SJC,North America,San Jose,4 ms
+194.53.53.245,443,true,SJC,North America,San Jose,4 ms
+45.12.31.236,443,true,SJC,North America,San Jose,4 ms
+154.211.8.205,443,true,SJC,North America,San Jose,4 ms
+69.84.182.228,443,true,SJC,North America,San Jose,4 ms
+217.163.76.98,443,true,SJC,North America,San Jose,4 ms
+167.68.5.47,443,true,SJC,North America,San Jose,4 ms
+103.184.45.184,443,true,SJC,North America,San Jose,4 ms
+64.23.138.62,443,true,SJC,North America,San Jose,5 ms
+103.184.44.197,443,true,SJC,North America,San Jose,5 ms
+27.50.48.254,443,true,SJC,North America,San Jose,5 ms
+185.148.107.20,443,true,SJC,North America,San Jose,5 ms
+206.238.236.214,443,true,SJC,North America,San Jose,5 ms
+160.153.0.64,443,true,SJC,North America,San Jose,5 ms
+27.50.48.1,443,true,SJC,North America,San Jose,5 ms
+45.159.216.253,443,true,SJC,North America,San Jose,5 ms
+185.238.228.98,443,true,SJC,North America,San Jose,5 ms
+154.92.9.124,443,true,SJC,North America,San Jose,5 ms
+154.83.2.193,443,true,SJC,North America,San Jose,5 ms
+147.78.140.39,443,true,SJC,North America,San Jose,5 ms
+103.184.44.66,443,true,SJC,North America,San Jose,5 ms
+45.194.53.81,443,true,SJC,North America,San Jose,5 ms
+103.184.44.6,443,true,SJC,North America,San Jose,5 ms
+27.50.48.69,443,true,SJC,North America,San Jose,5 ms
+103.184.45.219,443,true,SJC,North America,San Jose,5 ms
+194.53.53.249,443,true,SJC,North America,San Jose,5 ms
+103.184.45.69,443,true,SJC,North America,San Jose,5 ms
+194.53.53.253,443,true,SJC,North America,San Jose,5 ms
+154.219.5.177,443,true,SJC,North America,San Jose,5 ms
+45.131.210.215,443,true,SJC,North America,San Jose,5 ms
+45.12.30.249,443,true,SJC,North America,San Jose,5 ms
+217.163.76.2,443,true,SJC,North America,San Jose,5 ms
+170.114.45.24,443,true,SJC,North America,San Jose,5 ms
+103.184.44.163,443,true,SJC,North America,San Jose,5 ms
+103.184.45.23,443,true,SJC,North America,San Jose,5 ms
+217.163.76.82,443,true,SJC,North America,San Jose,5 ms
+199.212.90.207,443,true,SJC,North America,San Jose,6 ms
+45.12.30.116,443,true,SJC,North America,San Jose,6 ms
+194.53.53.230,443,true,SJC,North America,San Jose,6 ms
+163.231.14.240,443,true,SJC,North America,San Jose,6 ms
+199.212.90.189,443,true,SJC,North America,San Jose,6 ms
+206.238.236.19,443,true,SJC,North America,San Jose,6 ms
+185.193.29.37,443,true,SJC,North America,San Jose,6 ms
+103.184.45.190,443,true,SJC,North America,San Jose,6 ms
+170.114.45.244,443,true,SJC,North America,San Jose,6 ms
+103.184.44.205,443,true,SJC,North America,San Jose,6 ms
+160.153.0.90,443,true,SJC,North America,San Jose,6 ms
+170.114.45.207,443,true,SJC,North America,San Jose,6 ms
+194.53.53.247,443,true,SJC,North America,San Jose,7 ms
+155.248.196.123,443,true,YVR,North America,Vancouver,7 ms
+154.92.9.123,443,true,SJC,North America,San Jose,7 ms
+185.162.229.103,443,true,SJC,North America,San Jose,8 ms
+154.23.247.52,443,true,LAX,North America,Los Angeles,8 ms
+142.171.85.241,443,true,LAX,North America,Los Angeles,8 ms
+142.171.157.252,443,true,LAX,North America,Los Angeles,8 ms
+67.230.167.120,443,true,LAX,North America,Los Angeles,8 ms
+142.171.111.169,443,true,LAX,North America,Los Angeles,8 ms
+72.13.122.137,443,true,LAX,North America,Los Angeles,8 ms
+74.48.16.42,443,true,LAX,North America,Los Angeles,8 ms
+74.48.141.167,443,true,LAX,North America,Los Angeles,8 ms
+148.135.66.205,443,true,LAX,North America,Los Angeles,8 ms
+142.171.219.19,443,true,LAX,North America,Los Angeles,8 ms
+64.112.42.105,443,true,LAX,North America,Los Angeles,8 ms
+142.171.177.167,443,true,LAX,North America,Los Angeles,8 ms
+142.171.225.242,443,true,LAX,North America,Los Angeles,8 ms
+74.48.134.145,443,true,LAX,North America,Los Angeles,8 ms
+74.48.89.211,443,true,LAX,North America,Los Angeles,8 ms
+67.230.163.31,443,true,LAX,North America,Los Angeles,8 ms
+74.48.17.250,443,true,LAX,North America,Los Angeles,8 ms
+154.211.8.28,443,true,SJC,North America,San Jose,8 ms
+74.48.140.177,443,true,LAX,North America,Los Angeles,8 ms
+103.184.44.59,443,true,SJC,North America,San Jose,8 ms
+148.135.46.46,443,true,LAX,North America,Los Angeles,9 ms
+206.238.236.26,443,true,SJC,North America,San Jose,9 ms
+142.171.121.29,443,true,LAX,North America,Los Angeles,9 ms
+142.171.140.134,443,true,LAX,North America,Los Angeles,9 ms
+142.171.43.121,443,true,LAX,North America,Los Angeles,9 ms
+74.48.72.207,443,true,LAX,North America,Los Angeles,10 ms
+142.171.12.22,443,true,LAX,North America,Los Angeles,10 ms
+64.69.37.10,443,true,LAX,North America,Los Angeles,10 ms
+45.77.71.83,443,true,LAX,North America,Los Angeles,10 ms
+142.171.185.226,443,true,LAX,North America,Los Angeles,10 ms
+142.171.9.13,443,true,LAX,North America,Los Angeles,11 ms
+98.158.193.72,443,true,LAX,North America,Los Angeles,11 ms
+74.48.200.167,443,true,LAX,North America,Los Angeles,11 ms
+74.48.85.50,443,true,LAX,North America,Los Angeles,11 ms
+104.128.95.2,443,true,LAX,North America,Los Angeles,12 ms
+206.238.237.41,443,true,SJC,North America,San Jose,12 ms
+199.34.228.59,443,true,SJC,North America,San Jose,12 ms
+84.32.44.80,443,true,LAX,North America,Los Angeles,12 ms
+67.230.165.11,443,true,LAX,North America,Los Angeles,12 ms
+103.184.45.209,443,true,SJC,North America,San Jose,13 ms
+129.146.60.210,443,true,LAX,North America,Los Angeles,17 ms
+129.146.220.190,443,true,LAX,North America,Los Angeles,17 ms
+129.146.248.140,443,true,LAX,North America,Los Angeles,17 ms
+158.101.24.17,443,true,LAX,North America,Los Angeles,18 ms
+129.146.133.33,443,true,LAX,North America,Los Angeles,18 ms
+45.76.247.142,443,true,SEA,North America,Seattle,18 ms
+45.32.228.75,443,true,SEA,North America,Seattle,19 ms
+35.197.23.75,443,true,SEA,North America,Seattle,22 ms
+129.146.254.39,443,true,LAX,North America,Los Angeles,22 ms
+23.94.212.4,443,true,SEA,North America,Seattle,22 ms
+45.76.245.127,443,true,SEA,North America,Seattle,22 ms
+152.70.155.147,443,true,LAX,North America,Los Angeles,31 ms
+129.146.46.164,443,true,LAX,North America,Los Angeles,33 ms
+198.46.193.167,443,true,DFW,North America,Dallas,38 ms
+192.237.192.175,443,true,DFW,North America,Dallas,39 ms
+45.33.22.33,443,true,DFW,North America,Dallas,39 ms
+149.28.247.220,443,true,DFW,North America,Dallas,39 ms
+199.180.255.223,443,true,DFW,North America,Dallas,41 ms
+38.107.232.53,443,true,DFW,North America,Dallas,42 ms
+216.238.71.107,443,true,DFW,North America,Dallas,48 ms
+164.152.17.14,443,true,ORD,North America,Chicago,50 ms
+35.226.211.129,443,true,ORD,North America,Chicago,51 ms
+34.123.83.237,443,true,ORD,North America,Chicago,52 ms
+169.197.131.196,443,true,ORD,North America,Chicago,52 ms
+35.202.158.120,443,true,ORD,North America,Chicago,53 ms
+34.41.252.92,443,true,ORD,North America,Chicago,54 ms
+34.66.72.229,443,true,ORD,North America,Chicago,54 ms
+34.72.146.82,443,true,ORD,North America,Chicago,56 ms
+23.94.201.253,443,true,ATL,North America,Atlanta,58 ms
+192.210.213.192,443,true,ATL,North America,Atlanta,59 ms
+3.135.41.11,443,true,ORD,North America,Chicago,60 ms
+172.245.19.17,443,true,ATL,North America,Atlanta,63 ms
+5.161.71.41,443,true,IAD,North America,Ashburn,69 ms
+5.161.225.35,443,true,IAD,North America,Ashburn,69 ms
+135.148.4.33,443,true,IAD,North America,Ashburn,71 ms
+5.161.210.3,443,true,IAD,North America,Ashburn,71 ms
+3.89.69.2,443,true,IAD,North America,Ashburn,71 ms
+5.161.191.23,443,true,IAD,North America,Ashburn,71 ms
+5.161.228.130,443,true,IAD,North America,Ashburn,71 ms
+5.161.103.113,443,true,IAD,North America,Ashburn,72 ms
+5.161.50.246,443,true,IAD,North America,Ashburn,72 ms
+3.80.196.29,443,true,IAD,North America,Ashburn,73 ms
+47.90.141.204,443,true,LAX,North America,Los Angeles,73 ms
+108.61.85.153,443,true,EWR,North America,Newark,73 ms
+150.136.241.40,443,true,IAD,North America,Ashburn,74 ms
+104.236.65.156,443,true,EWR,North America,Newark,74 ms
+104.248.63.25,443,true,EWR,North America,Newark,75 ms
+193.122.197.111,443,true,IAD,North America,Ashburn,75 ms
+168.138.71.220,443,true,YUL,North America,Montréal,75 ms
+104.131.1.43,443,true,EWR,North America,Newark,75 ms
+104.207.132.10,443,true,EWR,North America,Newark,78 ms
+138.197.104.86,443,true,EWR,North America,Newark,78 ms
+173.199.117.101,443,true,EWR,North America,Newark,78 ms
+204.48.18.224,443,true,EWR,North America,Newark,79 ms
+66.135.19.169,443,true,EWR,North America,Newark,79 ms
+45.76.4.49,443,true,EWR,North America,Newark,81 ms
+45.77.109.191,443,true,EWR,North America,Newark,81 ms
+129.159.84.71,443,true,IAD,North America,Ashburn,89 ms
+45.32.25.171,443,true,NRT,Asia Pacific,Tokyo,104 ms
+172.104.120.67,443,true,NRT,Asia Pacific,Tokyo,105 ms
+5.226.48.84,443,true,NRT,Asia Pacific,Tokyo,105 ms
+172.104.110.10,443,true,NRT,Asia Pacific,Tokyo,105 ms
+20.243.104.80,443,true,NRT,Asia Pacific,Tokyo,105 ms
+8.209.217.106,443,true,HKG,Asia Pacific,Hong Kong,105 ms
+13.230.34.30,443,true,NRT,Asia Pacific,Tokyo,106 ms
+54.92.17.121,443,true,NRT,Asia Pacific,Tokyo,106 ms
+3.112.21.102,443,true,NRT,Asia Pacific,Tokyo,106 ms
+45.77.130.245,443,true,NRT,Asia Pacific,Tokyo,106 ms
+18.183.158.211,443,true,NRT,Asia Pacific,Tokyo,108 ms
+176.97.73.20,443,true,NRT,Asia Pacific,Tokyo,108 ms
+45.76.220.61,443,true,NRT,Asia Pacific,Tokyo,109 ms
+172.104.127.132,443,true,NRT,Asia Pacific,Tokyo,110 ms
+38.180.29.115,443,true,NRT,Asia Pacific,Tokyo,116 ms
+104.215.16.121,443,true,KIX,Asia Pacific,Osaka,125 ms
+146.56.46.84,443,true,NRT,Asia Pacific,Tokyo,129 ms
+8.213.137.24,443,true,ICN,Asia Pacific,Seoul,129 ms
+152.70.249.67,443,true,ICN,Asia Pacific,Seoul,130 ms
+140.238.28.86,443,true,SJC,North America,San Jose,130 ms
+140.238.1.158,443,true,ICN,Asia Pacific,Seoul,130 ms
+59.3.3.161,443,true,ICN,Asia Pacific,Seoul,130 ms
+132.145.81.117,443,true,ICN,Asia Pacific,Seoul,130 ms
+146.56.44.85,443,true,NRT,Asia Pacific,Tokyo,130 ms
+152.70.234.188,443,true,NRT,Asia Pacific,Tokyo,130 ms
+138.2.122.191,443,true,ICN,Asia Pacific,Seoul,131 ms
+146.56.146.67,443,true,NRT,Asia Pacific,Tokyo,131 ms
+144.24.80.56,443,true,ICN,Asia Pacific,Seoul,131 ms
+131.186.28.236,443,true,NRT,Asia Pacific,Tokyo,131 ms
+144.24.74.51,443,true,ICN,Asia Pacific,Seoul,131 ms
+144.24.83.39,443,true,ICN,Asia Pacific,Seoul,131 ms
+144.24.78.162,443,true,ICN,Asia Pacific,Seoul,132 ms
+129.154.50.159,443,true,ICN,Asia Pacific,Seoul,132 ms
+158.180.68.56,443,true,ICN,Asia Pacific,Seoul,135 ms
+103.137.63.2,443,true,KHH,Asia Pacific,Kaohsiung City,136 ms
+37.128.252.140,443,true,HKG,Asia Pacific,Hong Kong,137 ms
+35.206.250.1,443,true,NRT,Asia Pacific,Tokyo,137 ms
+103.137.63.3,443,true,KHH,Asia Pacific,Kaohsiung City,138 ms
+144.24.85.158,443,true,ICN,Asia Pacific,Seoul,138 ms
+140.238.65.48,443,true,LHR,Europe,London,141 ms
+144.21.51.110,443,true,LHR,Europe,London,142 ms
+141.11.87.20,443,true,HKG,Asia Pacific,Hong Kong,142 ms
+141.147.97.37,443,true,LHR,Europe,London,143 ms
+140.238.195.98,443,true,SYD,Oceania,Sydney,144 ms
+35.201.203.106,443,true,TPE,Asia Pacific,Taipei,146 ms
+129.227.139.137,443,true,HKG,Asia Pacific,Hong Kong,148 ms
+47.242.176.185,443,true,HKG,Asia Pacific,Hong Kong,148 ms
+16.162.37.167,443,true,HKG,Asia Pacific,Hong Kong,149 ms
+2.59.36.84,443,true,AMS,Europe,Amsterdam,149 ms
+43.154.96.33,443,true,HKG,Asia Pacific,Hong Kong,149 ms
+8.218.63.172,443,true,HKG,Asia Pacific,Hong Kong,149 ms
+141.145.199.188,443,true,CDG,Europe,Paris,149 ms
+18.162.97.34,443,true,HKG,Asia Pacific,Hong Kong,149 ms
+156.251.183.197,443,true,HKG,Asia Pacific,Hong Kong,149 ms
+163.5.187.104,443,true,AMS,Europe,Amsterdam,149 ms
+18.167.194.154,443,true,HKG,Asia Pacific,Hong Kong,149 ms
+138.2.56.246,443,true,KIX,Asia Pacific,Osaka,150 ms
+141.148.229.106,443,true,AMS,Europe,Amsterdam,150 ms
+146.70.175.98,443,true,AMS,Europe,Amsterdam,150 ms
+146.70.175.119,443,true,AMS,Europe,Amsterdam,150 ms
+193.187.174.169,443,true,CDG,Europe,Paris,150 ms
+150.230.6.108,443,true,KIX,Asia Pacific,Osaka,150 ms
+146.70.175.116,443,true,AMS,Europe,Amsterdam,150 ms
+64.110.103.69,443,true,KIX,Asia Pacific,Osaka,150 ms
+146.70.175.182,443,true,AMS,Europe,Amsterdam,150 ms
+193.176.179.119,443,true,CDG,Europe,Paris,150 ms
+146.70.169.115,443,true,AMS,Europe,Amsterdam,150 ms
+146.70.175.122,443,true,AMS,Europe,Amsterdam,150 ms
+146.70.175.99,443,true,AMS,Europe,Amsterdam,150 ms
+146.70.175.175,443,true,AMS,Europe,Amsterdam,150 ms
+193.176.153.198,443,true,CDG,Europe,Paris,150 ms
+43.199.36.32,443,true,HKG,Asia Pacific,Hong Kong,151 ms
+146.70.175.172,443,true,AMS,Europe,Amsterdam,151 ms
+146.70.175.111,443,true,AMS,Europe,Amsterdam,151 ms
+146.70.175.171,443,true,AMS,Europe,Amsterdam,151 ms
+146.70.175.102,443,true,AMS,Europe,Amsterdam,151 ms
+146.70.175.103,443,true,AMS,Europe,Amsterdam,151 ms
+146.70.175.176,443,true,AMS,Europe,Amsterdam,151 ms
+146.70.175.106,443,true,AMS,Europe,Amsterdam,151 ms
+146.70.169.117,443,true,AMS,Europe,Amsterdam,151 ms
+146.70.175.101,443,true,AMS,Europe,Amsterdam,151 ms
+146.70.175.100,443,true,AMS,Europe,Amsterdam,152 ms
+146.70.175.104,443,true,AMS,Europe,Amsterdam,152 ms
+47.242.202.230,443,true,HKG,Asia Pacific,Hong Kong,152 ms
+219.76.13.183,443,true,HKG,Asia Pacific,Hong Kong,152 ms
+146.70.175.118,443,true,AMS,Europe,Amsterdam,152 ms
+47.238.131.39,443,true,HKG,Asia Pacific,Hong Kong,152 ms
+47.76.218.163,443,true,HKG,Asia Pacific,Hong Kong,152 ms
+34.198.89.145,443,true,IAD,North America,Ashburn,152 ms
+8.218.148.106,443,true,HKG,Asia Pacific,Hong Kong,152 ms
+47.242.60.161,443,true,HKG,Asia Pacific,Hong Kong,152 ms
+8.210.118.122,443,true,HKG,Asia Pacific,Hong Kong,152 ms
+146.70.175.108,443,true,AMS,Europe,Amsterdam,153 ms
+146.70.175.112,443,true,AMS,Europe,Amsterdam,153 ms
+168.138.194.74,443,true,NRT,Asia Pacific,Tokyo,153 ms
+140.238.50.112,443,true,NRT,Asia Pacific,Tokyo,153 ms
+138.3.254.39,443,true,FRA,Europe,Frankfurt,153 ms
+58.176.95.46,443,true,HKG,Asia Pacific,Hong Kong,153 ms
+150.230.147.185,443,true,FRA,Europe,Frankfurt,153 ms
+150.230.149.208,443,true,FRA,Europe,Frankfurt,153 ms
+8.217.49.234,443,true,HKG,Asia Pacific,Hong Kong,153 ms
+144.24.189.21,443,true,FRA,Europe,Frankfurt,153 ms
+141.144.232.159,443,true,FRA,Europe,Frankfurt,153 ms
+132.226.7.217,443,true,NRT,Asia Pacific,Tokyo,153 ms
+8.212.43.8,443,true,SJC,North America,San Jose,153 ms
+103.172.134.143,443,true,HKG,Asia Pacific,Hong Kong,153 ms
+103.127.248.51,443,true,HKG,Asia Pacific,Hong Kong,153 ms
+165.154.41.40,443,true,HKG,Asia Pacific,Hong Kong,153 ms
+47.57.245.232,443,true,SJC,North America,San Jose,154 ms
+8.218.204.128,443,true,HKG,Asia Pacific,Hong Kong,154 ms
+38.150.15.137,443,true,HKG,Asia Pacific,Hong Kong,154 ms
+38.207.172.42,443,true,HKG,Asia Pacific,Hong Kong,154 ms
+130.61.23.77,443,true,FRA,Europe,Frankfurt,154 ms
+8.210.92.27,443,true,HKG,Asia Pacific,Hong Kong,154 ms
+219.76.13.164,443,true,HKG,Asia Pacific,Hong Kong,154 ms
+47.57.13.107,443,true,HKG,Asia Pacific,Hong Kong,154 ms
+138.2.18.184,443,true,NRT,Asia Pacific,Tokyo,154 ms
+130.61.83.37,443,true,FRA,Europe,Frankfurt,154 ms
+141.147.163.68,443,true,NRT,Asia Pacific,Tokyo,155 ms
+8.218.87.104,443,true,HKG,Asia Pacific,Hong Kong,155 ms
+146.70.175.126,443,true,AMS,Europe,Amsterdam,155 ms
+8.209.125.133,443,true,FRA,Europe,Frankfurt,156 ms
+47.243.173.187,443,true,HKG,Asia Pacific,Hong Kong,156 ms
+8.211.49.71,443,true,FRA,Europe,Frankfurt,156 ms
+168.138.46.67,443,true,KIX,Asia Pacific,Osaka,156 ms
+47.76.178.146,443,true,HKG,Asia Pacific,Hong Kong,156 ms
+172.93.188.157,443,true,SIN,Asia Pacific,Singapore,156 ms
+8.217.121.210,443,true,HKG,Asia Pacific,Hong Kong,157 ms
+146.70.175.114,443,true,AMS,Europe,Amsterdam,157 ms
+130.61.239.203,443,true,FRA,Europe,Frankfurt,157 ms
+144.24.200.164,443,true,MRS,Europe,Marseille,157 ms
+130.162.47.186,443,true,FRA,Europe,Frankfurt,157 ms
+130.61.87.219,443,true,FRA,Europe,Frankfurt,157 ms
+43.129.171.137,443,true,HKG,Asia Pacific,Hong Kong,158 ms
+43.155.22.176,443,true,HKG,Asia Pacific,Hong Kong,159 ms
+3.120.8.31,443,true,FRA,Europe,Frankfurt,159 ms
+47.76.189.214,443,true,HKG,Asia Pacific,Hong Kong,159 ms
+45.78.23.3,443,true,HKG,Asia Pacific,Hong Kong,159 ms
+141.147.190.128,443,true,NRT,Asia Pacific,Tokyo,160 ms
+193.176.158.51,443,true,CDG,Europe,Paris,160 ms
+193.176.153.197,443,true,CDG,Europe,Paris,160 ms
+204.216.218.114,443,true,MXP,Europe,Milan,161 ms
+202.81.231.150,443,true,HKG,Asia Pacific,Hong Kong,161 ms
+140.238.37.208,443,true,NRT,Asia Pacific,Tokyo,162 ms
+129.151.221.152,443,true,ARN,Europe,Stockholm,165 ms
+104.248.145.216,443,true,SIN,Asia Pacific,Singapore,168 ms
+8.219.4.122,443,true,SIN,Asia Pacific,Singapore,168 ms
+8.219.159.151,443,true,SIN,Asia Pacific,Singapore,168 ms
+8.222.193.65,443,true,SIN,Asia Pacific,Singapore,168 ms
+8.219.84.214,443,true,SIN,Asia Pacific,Singapore,168 ms
+209.97.172.173,443,true,SIN,Asia Pacific,Singapore,168 ms
+152.67.65.201,443,true,MXP,Europe,Milan,168 ms
+8.222.164.209,443,true,SIN,Asia Pacific,Singapore,168 ms
+15.235.162.49,443,true,SIN,Asia Pacific,Singapore,168 ms
+8.219.201.8,443,true,SIN,Asia Pacific,Singapore,168 ms
+8.219.161.129,443,true,SIN,Asia Pacific,Singapore,168 ms
+51.79.254.182,443,true,SIN,Asia Pacific,Singapore,168 ms
+8.222.128.32,443,true,SIN,Asia Pacific,Singapore,168 ms
+47.236.164.215,443,true,SIN,Asia Pacific,Singapore,168 ms
+8.219.5.10,443,true,SIN,Asia Pacific,Singapore,168 ms
+168.138.165.174,443,true,SIN,Asia Pacific,Singapore,168 ms
+138.2.104.102,443,true,SIN,Asia Pacific,Singapore,168 ms
+8.219.190.62,443,true,SIN,Asia Pacific,Singapore,168 ms
+152.69.219.32,443,true,SIN,Asia Pacific,Singapore,168 ms
+47.236.117.48,443,true,SIN,Asia Pacific,Singapore,168 ms
+8.219.51.211,443,true,SIN,Asia Pacific,Singapore,168 ms
+15.235.167.49,443,true,SIN,Asia Pacific,Singapore,168 ms
+8.219.210.64,443,true,SIN,Asia Pacific,Singapore,168 ms
+47.236.130.95,443,true,SIN,Asia Pacific,Singapore,168 ms
+43.156.181.203,443,true,SIN,Asia Pacific,Singapore,168 ms
+8.219.67.133,443,true,SIN,Asia Pacific,Singapore,168 ms
+8.219.0.162,443,true,SIN,Asia Pacific,Singapore,168 ms
+138.2.99.97,443,true,SIN,Asia Pacific,Singapore,168 ms
+8.219.124.227,443,true,SIN,Asia Pacific,Singapore,168 ms
+8.219.54.203,443,true,SIN,Asia Pacific,Singapore,169 ms
+8.219.201.245,443,true,SIN,Asia Pacific,Singapore,169 ms
+8.219.164.237,443,true,SIN,Asia Pacific,Singapore,169 ms
+8.222.137.192,443,true,SIN,Asia Pacific,Singapore,169 ms
+8.219.170.232,443,true,SIN,Asia Pacific,Singapore,169 ms
+8.219.50.180,443,true,SIN,Asia Pacific,Singapore,169 ms
+8.219.144.168,443,true,SIN,Asia Pacific,Singapore,169 ms
+8.219.222.98,443,true,SIN,Asia Pacific,Singapore,169 ms
+8.219.70.151,443,true,SIN,Asia Pacific,Singapore,169 ms
+8.222.204.128,443,true,SIN,Asia Pacific,Singapore,169 ms
+8.219.198.139,443,true,SIN,Asia Pacific,Singapore,169 ms
+8.219.110.248,443,true,SIN,Asia Pacific,Singapore,169 ms
+8.219.103.65,443,true,SIN,Asia Pacific,Singapore,169 ms
+129.150.37.203,443,true,SIN,Asia Pacific,Singapore,169 ms
+8.222.222.64,443,true,SIN,Asia Pacific,Singapore,169 ms
+8.222.208.38,443,true,SIN,Asia Pacific,Singapore,169 ms
+144.24.243.207,443,true,ZRH,Europe,Zurich,169 ms
+8.219.98.13,443,true,SIN,Asia Pacific,Singapore,169 ms
+8.219.66.156,443,true,NRT,Asia Pacific,Tokyo,169 ms
+47.236.145.85,443,true,SIN,Asia Pacific,Singapore,169 ms
+8.219.200.145,443,true,SIN,Asia Pacific,Singapore,169 ms
+8.219.198.34,443,true,SIN,Asia Pacific,Singapore,169 ms
+47.245.86.230,443,true,SIN,Asia Pacific,Singapore,169 ms
+8.219.174.142,443,true,SIN,Asia Pacific,Singapore,169 ms
+8.219.78.1,443,true,SIN,Asia Pacific,Singapore,169 ms
+8.219.199.220,443,true,SIN,Asia Pacific,Singapore,169 ms
+47.236.146.249,443,true,SIN,Asia Pacific,Singapore,170 ms
+13.228.170.74,443,true,SIN,Asia Pacific,Singapore,170 ms
+8.219.60.54,443,true,SIN,Asia Pacific,Singapore,170 ms
+8.219.193.202,443,true,SIN,Asia Pacific,Singapore,170 ms
+8.219.42.72,443,true,SIN,Asia Pacific,Singapore,170 ms
+8.219.111.175,443,true,SIN,Asia Pacific,Singapore,170 ms
+8.222.128.75,443,true,SIN,Asia Pacific,Singapore,170 ms
+13.228.50.161,443,true,SIN,Asia Pacific,Singapore,171 ms
+139.162.54.112,443,true,SIN,Asia Pacific,Singapore,171 ms
+8.219.109.183,443,true,SIN,Asia Pacific,Singapore,171 ms
+8.219.114.201,443,true,SIN,Asia Pacific,Singapore,172 ms
+8.219.111.147,443,true,SIN,Asia Pacific,Singapore,172 ms
+8.219.106.156,443,true,SIN,Asia Pacific,Singapore,172 ms
+8.222.181.117,443,true,SIN,Asia Pacific,Singapore,172 ms
+8.219.237.250,443,true,SIN,Asia Pacific,Singapore,172 ms
+129.150.50.63,443,true,SIN,Asia Pacific,Singapore,173 ms
+8.222.226.92,443,true,SIN,Asia Pacific,Singapore,173 ms
+8.219.240.160,443,true,SIN,Asia Pacific,Singapore,173 ms
+8.219.126.240,443,true,SIN,Asia Pacific,Singapore,174 ms
+18.141.204.88,443,true,SIN,Asia Pacific,Singapore,174 ms
+52.77.110.99,443,true,SIN,Asia Pacific,Singapore,175 ms
+103.231.73.117,443,true,RIX,Europe,Riga,177 ms
+103.231.73.54,443,true,RIX,Europe,Riga,177 ms
+185.228.235.131,443,true,HEL,Europe,Helsinki,180 ms
+46.8.238.127,443,true,HEL,Europe,Helsinki,181 ms
+193.122.125.94,443,true,SIN,Asia Pacific,Singapore,185 ms
+46.8.236.93,443,true,HEL,Europe,Helsinki,185 ms
+146.56.99.115,443,true,SIN,Asia Pacific,Singapore,192 ms
+203.89.8.107,443,true,HKG,Asia Pacific,Hong Kong,201 ms
+152.67.190.105,443,true,HYD,Asia Pacific,Hyderabad,248 ms
+139.185.34.131,443,true,MXP,Europe,Milan,260 ms
+118.26.39.145,443,true,LAX,North America,Los Angeles,287 ms
+152.32.239.228,443,true,LAX,North America,Los Angeles,291 ms
+188.130.154.16,443,true,WAW,Europe,Warsaw,413 ms
