@@ -87,7 +87,6 @@ def fetch_domains_for_ip(ip_address: str, session: requests.Session) -> List[str
         headers = get_headers()
 
         try:
-            print(f"[{ip_address}] 正在尝试从 {site_info['url']} 获取域名...")
             response = session.get(url, headers=headers, timeout=10)
             response.raise_for_status()
 
@@ -97,12 +96,10 @@ def fetch_domains_for_ip(ip_address: str, session: requests.Session) -> List[str
             domains = [a.text.strip() for a in a_elements if a.text and a.text.strip()]
 
             if domains:
-                print(f"[{ip_address}] 成功从 {site_info['url']} 获取到域名：{domains}")
                 return domains
             else:
                 raise ValueError("未提取到有效域名")
-        except Exception as e:
-            print(f"[{ip_address}] 从 {site_info['url']} 获取域名失败：{e}")
+        except Exception:
             attempts += 1
 
     return []
@@ -124,8 +121,8 @@ def fetch_domains_concurrently(ip_addresses: List[str]) -> List[str]:
             try:
                 domains = future.result()
                 all_domains.update(domains)
-            except Exception as e:
-                print(f"Error处理IP {future_to_ip[future]}: {e}")
+            except Exception:
+                continue
 
     return list(all_domains)
 
@@ -134,7 +131,6 @@ def dns_lookup(domain: str) -> Tuple[str, str]:
     """
     对给定域名执行 nslookup，并返回 (域名, nslookup 输出) 的元组。
     """
-    print(f"[{domain}] 正在执行 DNS 查询...")
     result = subprocess.run(["nslookup", domain], capture_output=True, text=True)
     return domain, result.stdout
 
@@ -148,18 +144,16 @@ def get_asn(reader: geoip2.database.Reader, ip: str) -> int:
         response = reader.asn(ip)
         return response.autonomous_system_number
     except geoip2.errors.AddressNotFoundError:
-        print(f"[{ip}] 未找到 ASN 信息")
         return None
 
 
 def perform_dns_lookups(
-    domain_filename: str, result_filename: str, unique_ipv4_filename: str
+    domain_filename: str, result_filename: str, unique_ipv4_filename: str, excluded_ip_ranges: List[ipaddress.IPv4Network] = []
 ) -> None:
     """
     读取域名文件，执行 DNS 查询，保存查询结果，并解析出其中的 IPv4 地址，
     利用 geoip2 数据库过滤出合法的 IP（全局地址且 ASN 不为 13335 和 209242），
-    最后将 IP 与文件中已有的 IP 合并保存。
-    加入了排除指定 IP 段的功能。
+    同时排除指定的 IP 段，最后将 IP 与文件中已有的 IP 合并保存。
     """
     try:
         # 读取域名列表
@@ -188,22 +182,17 @@ def perform_dns_lookups(
         else:
             exist_list = set()
 
-        # 定义要排除的 IP 段
-        excluded_network = ipaddress.ip_network("103.237.95.0/24")
-
         filtered_ipv4_addresses: Set[str] = set()
         with geoip2.database.Reader(GEOIP_DB_PATH) as reader:
             for ip in ipv4_addresses:
                 try:
                     ip_obj = ipaddress.ip_address(ip)
-                    # 排除指定 IP 段
-                    if ip_obj in excluded_network:
-                        print(f"[{ip}] 位于排除的 IP 段内，已跳过")
+                    # 检查 IP 是否在排除的 IP 段内
+                    if any(ip_obj in range for range in excluded_ip_ranges):
                         continue
-                    # 排除其他 ASN 和非全局地址的逻辑
                     if ip_obj.is_global:
                         asn = get_asn(reader, ip)
-                        # 同时过滤掉 Cloudflare（ASN 13335）、AS209242（ASN 209242）和 140224 的 IP
+                        # 同时过滤掉 Cloudflare（ASN 13335）和 AS209242（ASN 209242）的 IP
                         if asn and asn not in (13335, 209242, 140224):
                             filtered_ipv4_addresses.add(ip)
                 except ValueError:
@@ -217,9 +206,8 @@ def perform_dns_lookups(
             for address in sorted(filtered_ipv4_addresses):
                 output_file.write(address + "\n")
 
-    except Exception as e:
-        print(f"执行 DNS 查询出错：{e}")
-
+    except Exception:
+        pass
 
 
 def update_domains(ip_file: str, domain_file: str, max_domains: int = 10000) -> None:
@@ -232,11 +220,9 @@ def update_domains(ip_file: str, domain_file: str, max_domains: int = 10000) -> 
         ip_list = [line.strip() for line in f if line.strip()]
 
     if not ip_list:
-        print("IP 文件为空，无法查询域名。")
         return
 
     new_domains = fetch_domains_concurrently(ip_list)
-    print("新获取到的域名：", new_domains)
 
     # 读取已有的域名（如果文件存在）
     if os.path.exists(domain_file):
@@ -250,15 +236,14 @@ def update_domains(ip_file: str, domain_file: str, max_domains: int = 10000) -> 
     with open(domain_file, "w", encoding="utf-8") as f:
         for domain in list(all_domains)[:max_domains]:
             f.write(domain + "\n")
-    print("IP -> 域名 阶段已完成，更新后的域名保存在", domain_file)
 
 
-def update_ips(domain_file: str, dns_result_file: str, ip_file: str, max_ips: int = 20000) -> None:
+def update_ips(domain_file: str, dns_result_file: str, ip_file: str, excluded_ip_ranges: List[ipaddress.IPv4Network] = [], max_ips: int = 20000) -> None:
     """
     1. 根据域名文件执行 DNS 查询，更新 ip_file 中的 IP 列表；
     2. 最后对 IP 文件进行数量限制（最多 max_ips 条）。
     """
-    perform_dns_lookups(domain_file, dns_result_file, ip_file)
+    perform_dns_lookups(domain_file, dns_result_file, ip_file, excluded_ip_ranges)
 
     with open(ip_file, "r", encoding="utf-8") as f:
         ips = [line.strip() for line in f if line.strip()]
@@ -267,7 +252,6 @@ def update_ips(domain_file: str, dns_result_file: str, ip_file: str, max_ips: in
     with open(ip_file, "w", encoding="utf-8") as f:
         for ip in unique_ips:
             f.write(ip + "\n")
-    print("域名 -> IP 阶段已完成，更新后的 IP 保存在", ip_file)
 
 
 def ensure_file_exists(filepath: str) -> None:
@@ -278,6 +262,12 @@ def ensure_file_exists(filepath: str) -> None:
 
 
 def main() -> None:
+    # 排除的 IP 段
+    excluded_ip_ranges = [
+        ipaddress.IPv4Network("103.237.95.0/24"),
+        ipaddress.IPv4Network("10.0.0.0/8")
+    ]
+
     # 确保必要的文件存在
     ensure_file_exists(IPS_FILE)
     ensure_file_exists(DOMAINS_FILE)
@@ -286,7 +276,7 @@ def main() -> None:
     update_domains(IPS_FILE, DOMAINS_FILE, max_domains=10000)
 
     # 更新 IP 文件：通过域名执行 DNS 查询，更新 IP 列表
-    update_ips(DOMAINS_FILE, DNS_RESULT_FILE, IPS_FILE, max_ips=20000)
+    update_ips(DOMAINS_FILE, DNS_RESULT_FILE, IPS_FILE, excluded_ip_ranges, max_ips=20000)
 
 
 if __name__ == "__main__":
