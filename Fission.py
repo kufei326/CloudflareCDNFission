@@ -195,7 +195,7 @@ def perform_dns_lookups(
                     if ip_obj.is_global:
                         asn = get_asn(reader, ip)
                         # 同时过滤掉 Cloudflare（ASN 13335）和 AS209242（ASN 209242）的 IP
-                        if asn and asn not in (13335, 209242):
+                        if asn and asn not in (13335, 209242, 140224):
                             filtered_ipv4_addresses.add(ip)
                 except ValueError:
                     continue
