@@ -99,14 +99,7 @@ def fetch_domains_for_ip(ip_address: str, session: requests.Session) -> List[str
                 return domains
             else:
                 raise ValueError("未提取到有效域名")
-        except requests.exceptions.RequestException as e:
-            print(f"请求错误: {e}")
-            attempts += 1
-        except ValueError as e:
-             print(f"ValueError: {e}")
-             attempts +=1
-        except Exception as e:
-            print(f"发生未知错误：{e}")
+        except Exception:
             attempts += 1
 
     return []
@@ -128,8 +121,7 @@ def fetch_domains_concurrently(ip_addresses: List[str]) -> List[str]:
             try:
                 domains = future.result()
                 all_domains.update(domains)
-            except Exception as e:
-                print(f"获取域名时发生错误: {e}")
+            except Exception:
                 continue
 
     return list(all_domains)
@@ -179,6 +171,9 @@ def perform_dns_lookups(
 
         # 编译 IPv4 正则表达式
         ipv4_pattern = re.compile(r"\b(?:[0-9]{1,3}\.){3}[0-9]{1,3}\b")
+        ipv4_addresses: Set[str] = set()
+        for _, output in results:
+            ipv4_addresses.update(ipv4_pattern.findall(output))
 
         # 读取已有的 IP 列表（去除空行）
         if os.path.exists(unique_ipv4_filename):
@@ -187,41 +182,33 @@ def perform_dns_lookups(
         else:
             exist_list = set()
 
-
         filtered_ipv4_addresses: Set[str] = set()
         with geoip2.database.Reader(GEOIP_DB_PATH) as reader:
-            for _, output in results:
-                for ip_match in ipv4_pattern.finditer(output): # 使用 finditer 避免重复
-                    ip = ip_match.group(0)
-                    try:
-                        ip_obj = ipaddress.ip_address(ip)
-                        # 检查 IP 是否在排除的 IP 段内 *之前* 进行其他检查
-                        if any(ip_obj in ip_range for ip_range in excluded_ip_ranges):
-                            continue  # 如果在排除范围内，跳过
+            for ip in ipv4_addresses:
+                try:
+                    ip_obj = ipaddress.ip_address(ip)
+                    # 打印调试信息，查看哪些 IP 被排除
+                    if any(ip_obj in range for range in excluded_ip_ranges):
+                        print(f"排除 IP: {ip_obj}，因为它在排除段内")
+                        continue
+                    if ip_obj.is_global:
+                        asn = get_asn(reader, ip)
+                        # 同时过滤掉 Cloudflare（ASN 13335）和 AS209242（ASN 209242）的 IP
+                        if asn and asn not in (13335, 209242, 140224):
+                            filtered_ipv4_addresses.add(ip)
+                except ValueError:
+                    continue
 
-                        if ip_obj.is_global:
-                            asn = get_asn(reader, ip)
-                            # 同时过滤掉 Cloudflare（ASN 13335）和 AS209242（ASN 209242）的 IP
-                            if asn and asn not in (13335, 209242, 140224):
-                                # 只有通过所有检查的 IP 才会被添加到集合中
-                                if ip not in exist_list: # 检查是否已存在,避免重复添加
-                                    filtered_ipv4_addresses.add(ip)
-                    except ValueError as e:
-                        print(f"无效的IP地址：{ip} - {e}")
-                    except geoip2.errors.AddressNotFoundError:
-                        print(f"未找到IP地址的ASN信息：{ip}")
-                    except Exception as e:
-                         print(f"处理IP地址时发生未知错误: {e}")
-
+        # 合并已有的 IP 列表
+        filtered_ipv4_addresses.update(exist_list)
 
         # 写入结果
         with open(unique_ipv4_filename, "w", encoding="utf-8") as output_file:
-                for address in filtered_ipv4_addresses:
-                    output_file.write(address + "\n")
+            for address in sorted(filtered_ipv4_addresses):
+                output_file.write(address + "\n")
 
     except Exception as e:
-         print(f"执行DNS查询和IP过滤过程中出现错误:{e}")
-
+        print(f"执行 DNS 查询出错：{e}")
 
 
 def update_domains(ip_file: str, domain_file: str, max_domains: int = 10000) -> None:
@@ -230,30 +217,26 @@ def update_domains(ip_file: str, domain_file: str, max_domains: int = 10000) -> 
     2. 并发查询对应的域名
     3. 与已有域名合并后保存到 domain_file 中（最多 max_domains 条）
     """
-    try:
-        with open(ip_file, "r", encoding="utf-8") as f:
-            ip_list = [line.strip() for line in f if line.strip()]
+    with open(ip_file, "r", encoding="utf-8") as f:
+        ip_list = [line.strip() for line in f if line.strip()]
 
-        if not ip_list:
-            return
+    if not ip_list:
+        return
 
-        new_domains = fetch_domains_concurrently(ip_list)
+    new_domains = fetch_domains_concurrently(ip_list)
 
-        # 读取已有的域名（如果文件存在）
-        if os.path.exists(domain_file):
-            with open(domain_file, "r", encoding="utf-8") as f:
-                existing_domains = {line.strip() for line in f if line.strip()}
-        else:
-            existing_domains = set()
+    # 读取已有的域名（如果文件存在）
+    if os.path.exists(domain_file):
+        with open(domain_file, "r", encoding="utf-8") as f:
+            existing_domains = {line.strip() for line in f if line.strip()}
+    else:
+        existing_domains = set()
 
-        all_domains = set(new_domains) | existing_domains
+    all_domains = set(new_domains) | existing_domains
 
-        with open(domain_file, "w", encoding="utf-8") as f:
-            for domain in list(all_domains)[:max_domains]:
-                f.write(domain + "\n")
-    except Exception as e:
-        print(f"更新域名时发生错误:{e}")
-
+    with open(domain_file, "w", encoding="utf-8") as f:
+        for domain in list(all_domains)[:max_domains]:
+            f.write(domain + "\n")
 
 
 def update_ips(domain_file: str, dns_result_file: str, ip_file: str, excluded_ip_ranges: List[ipaddress.IPv4Network] = [], max_ips: int = 20000) -> None:
@@ -261,26 +244,22 @@ def update_ips(domain_file: str, dns_result_file: str, ip_file: str, excluded_ip
     1. 根据域名文件执行 DNS 查询，更新 ip_file 中的 IP 列表；
     2. 最后对 IP 文件进行数量限制（最多 max_ips 条）。
     """
-    try:
+    perform_dns_lookups(domain_file, dns_result_file, ip_file, excluded_ip_ranges)
 
-        perform_dns_lookups(domain_file, dns_result_file, ip_file, excluded_ip_ranges)
+    with open(ip_file, "r", encoding="utf-8") as f:
+        ips = [line.strip() for line in f if line.strip()]
 
-        with open(ip_file, "r", encoding="utf-8") as f:
-            ips = [line.strip() for line in f if line.strip()]
-
-        unique_ips = ips[:max_ips]
-        with open(ip_file, "w", encoding="utf-8") as f:
-            for ip in unique_ips:
-                f.write(ip + "\n")
-    except Exception as e:
-         print(f"更新IP时发生错误:{e}")
+    unique_ips = ips[:max_ips]
+    with open(ip_file, "w", encoding="utf-8") as f:
+        for ip in unique_ips:
+            f.write(ip + "\n")
 
 
 def ensure_file_exists(filepath: str) -> None:
     """如果文件不存在，则创建一个空文件。"""
     if not os.path.exists(filepath):
         with open(filepath, "w", encoding="utf-8") as f:
-            pass  # 创建空文件
+            f.write("")
 
 
 def main() -> None:
