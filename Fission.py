@@ -194,7 +194,7 @@ def perform_dns_lookups(
                     if ip_obj.is_global:
                         asn = get_asn(reader, ip)
                         # 同时过滤掉 Cloudflare（ASN 13335）和 AS209242（ASN 209242）的 IP
-                        if asn and asn not in (13335, 209242, 140224):
+                        if asn and asn not in (13335, 209242, 31898):
                             filtered_ipv4_addresses.add(ip)
                 except ValueError:
                     continue
@@ -211,7 +211,7 @@ def perform_dns_lookups(
         print(f"执行 DNS 查询出错：{e}")
 
 
-def update_domains(ip_file: str, domain_file: str, max_domains: int = 10000) -> None:
+def update_domains(ip_file: str, domain_file: str, max_domains: int = 20000) -> None:
     """
     1. 从 ip_file 中读取 IP 列表
     2. 并发查询对应的域名
