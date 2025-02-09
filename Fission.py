@@ -159,6 +159,7 @@ def perform_dns_lookups(
     读取域名文件，执行 DNS 查询，保存查询结果，并解析出其中的 IPv4 地址，
     利用 geoip2 数据库过滤出合法的 IP（全局地址且 ASN 不为 13335 和 209242），
     最后将 IP 与文件中已有的 IP 合并保存。
+    加入了排除指定 IP 段的功能。
     """
     try:
         # 读取域名列表
@@ -187,14 +188,22 @@ def perform_dns_lookups(
         else:
             exist_list = set()
 
+        # 定义要排除的 IP 段
+        excluded_network = ipaddress.ip_network("103.237.95.0/24")
+
         filtered_ipv4_addresses: Set[str] = set()
         with geoip2.database.Reader(GEOIP_DB_PATH) as reader:
             for ip in ipv4_addresses:
                 try:
                     ip_obj = ipaddress.ip_address(ip)
+                    # 排除指定 IP 段
+                    if ip_obj in excluded_network:
+                        print(f"[{ip}] 位于排除的 IP 段内，已跳过")
+                        continue
+                    # 排除其他 ASN 和非全局地址的逻辑
                     if ip_obj.is_global:
                         asn = get_asn(reader, ip)
-                        # 同时过滤掉 Cloudflare（ASN 13335）和 AS209242（ASN 209242）的 IP
+                        # 同时过滤掉 Cloudflare（ASN 13335）、AS209242（ASN 209242）和 140224 的 IP
                         if asn and asn not in (13335, 209242, 140224):
                             filtered_ipv4_addresses.add(ip)
                 except ValueError:
@@ -210,6 +219,7 @@ def perform_dns_lookups(
 
     except Exception as e:
         print(f"执行 DNS 查询出错：{e}")
+
 
 
 def update_domains(ip_file: str, domain_file: str, max_domains: int = 10000) -> None:
