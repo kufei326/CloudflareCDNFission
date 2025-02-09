@@ -157,7 +157,7 @@ def perform_dns_lookups(
 ) -> None:
     """
     读取域名文件，执行 DNS 查询，保存查询结果，并解析出其中的 IPv4 地址，
-    利用 geoip2 数据库过滤出合法的 IP（全局地址且 ASN 不为 13335），
+    利用 geoip2 数据库过滤出合法的 IP（全局地址且 ASN 不为 13335 和 209242），
     最后将 IP 与文件中已有的 IP 合并保存。
     """
     try:
@@ -194,8 +194,8 @@ def perform_dns_lookups(
                     ip_obj = ipaddress.ip_address(ip)
                     if ip_obj.is_global:
                         asn = get_asn(reader, ip)
-                        # 过滤掉 Cloudflare 的 IP（ASN 13335）
-                        if asn and asn != 13335:
+                        # 同时过滤掉 Cloudflare（ASN 13335）和 AS209242（ASN 209242）的 IP
+                        if asn and asn not in (13335, 209242):
                             filtered_ipv4_addresses.add(ip)
                 except ValueError:
                     continue
