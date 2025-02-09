@@ -274,7 +274,7 @@ def main() -> None:
     ensure_file_exists(DOMAINS_FILE)
 
     # 更新域名文件：通过 IP 查询对应的域名，并合并已有域名
-    update_domains(IPS_FILE, DOMAINS_FILE, max_domains=20000)
+    update_domains(IPS_FILE, DOMAINS_FILE, max_domains=50000)
 
     # 更新 IP 文件：通过域名执行 DNS 查询，更新 IP 列表
     update_ips(DOMAINS_FILE, DNS_RESULT_FILE, IPS_FILE, excluded_ip_ranges, max_ips=20000)
