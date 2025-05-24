@@ -1,360 +1,364 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟
-160.153.138.10,443,true,IAD,North America,Ashburn,5 ms
-199.34.228.100,443,true,IAD,North America,Ashburn,5 ms
+206.238.237.151,443,true,IAD,North America,Ashburn,5 ms
 72.13.122.137,443,true,IAD,North America,Ashburn,5 ms
-199.34.228.55,443,true,IAD,North America,Ashburn,5 ms
-154.218.15.28,443,true,IAD,North America,Ashburn,5 ms
-199.34.228.174,443,true,IAD,North America,Ashburn,5 ms
-206.238.237.245,443,true,IAD,North America,Ashburn,5 ms
-206.238.236.106,443,true,IAD,North America,Ashburn,5 ms
-166.62.114.250,443,true,IAD,North America,Ashburn,5 ms
-217.163.76.46,443,true,IAD,North America,Ashburn,5 ms
-206.238.236.104,443,true,IAD,North America,Ashburn,5 ms
-198.71.233.69,443,true,IAD,North America,Ashburn,5 ms
-166.62.108.139,443,true,IAD,North America,Ashburn,5 ms
-198.71.190.90,443,true,IAD,North America,Ashburn,5 ms
-91.124.127.0,443,true,IAD,North America,Ashburn,5 ms
-199.34.228.164,443,true,IAD,North America,Ashburn,5 ms
-198.62.62.91,443,true,IAD,North America,Ashburn,5 ms
-160.153.138.114,443,true,IAD,North America,Ashburn,5 ms
-199.34.228.10,443,true,IAD,North America,Ashburn,5 ms
-166.62.115.95,443,true,IAD,North America,Ashburn,5 ms
-63.141.128.212,443,true,IAD,North America,Ashburn,5 ms
-199.34.228.160,443,true,IAD,North America,Ashburn,5 ms
+206.238.237.206,443,true,IAD,North America,Ashburn,5 ms
+206.238.236.18,443,true,IAD,North America,Ashburn,5 ms
+199.34.228.57,443,true,IAD,North America,Ashburn,5 ms
 63.141.128.8,443,true,IAD,North America,Ashburn,5 ms
-199.34.228.168,443,true,IAD,North America,Ashburn,5 ms
-206.238.237.241,443,true,IAD,North America,Ashburn,5 ms
-198.71.233.178,443,true,IAD,North America,Ashburn,5 ms
-198.12.145.214,443,true,IAD,North America,Ashburn,5 ms
-198.71.233.76,443,true,IAD,North America,Ashburn,5 ms
-206.238.237.62,443,true,IAD,North America,Ashburn,5 ms
-192.200.160.161,443,true,IAD,North America,Ashburn,5 ms
-206.238.236.43,443,true,IAD,North America,Ashburn,5 ms
 216.24.57.1,443,true,IAD,North America,Ashburn,5 ms
-206.238.237.222,443,true,IAD,North America,Ashburn,5 ms
-206.238.236.207,443,true,IAD,North America,Ashburn,5 ms
-63.141.128.9,443,true,IAD,North America,Ashburn,5 ms
-199.34.228.175,443,true,IAD,North America,Ashburn,5 ms
-45.40.145.212,443,true,IAD,North America,Ashburn,5 ms
-206.238.236.214,443,true,IAD,North America,Ashburn,5 ms
-206.238.236.160,443,true,IAD,North America,Ashburn,5 ms
-160.153.137.91,443,true,IAD,North America,Ashburn,5 ms
-206.238.236.157,443,true,IAD,North America,Ashburn,5 ms
-199.34.228.53,443,true,IAD,North America,Ashburn,5 ms
+206.238.236.112,443,true,IAD,North America,Ashburn,5 ms
+216.24.57.252,443,true,IAD,North America,Ashburn,5 ms
+206.238.236.203,443,true,IAD,North America,Ashburn,5 ms
+199.34.228.49,443,true,IAD,North America,Ashburn,5 ms
 217.163.76.127,443,true,IAD,North America,Ashburn,5 ms
+206.238.236.35,443,true,IAD,North America,Ashburn,5 ms
+206.238.236.102,443,true,IAD,North America,Ashburn,5 ms
+199.34.228.54,443,true,IAD,North America,Ashburn,5 ms
+199.34.228.55,443,true,IAD,North America,Ashburn,5 ms
+166.62.114.250,443,true,IAD,North America,Ashburn,5 ms
+192.0.54.102,443,true,IAD,North America,Ashburn,5 ms
+199.34.228.175,443,true,IAD,North America,Ashburn,5 ms
+209.177.165.17,443,true,IAD,North America,Ashburn,5 ms
+199.34.228.10,443,true,IAD,North America,Ashburn,5 ms
+199.34.228.53,443,true,IAD,North America,Ashburn,5 ms
+154.218.15.28,443,true,IAD,North America,Ashburn,5 ms
+206.238.236.41,443,true,IAD,North America,Ashburn,5 ms
+45.40.155.106,443,true,IAD,North America,Ashburn,5 ms
+206.238.236.104,443,true,IAD,North America,Ashburn,5 ms
+217.163.76.46,443,true,IAD,North America,Ashburn,5 ms
+45.40.145.212,443,true,IAD,North America,Ashburn,5 ms
 216.24.57.4,443,true,IAD,North America,Ashburn,5 ms
-199.34.228.191,443,true,IAD,North America,Ashburn,5 ms
-198.71.233.90,443,true,IAD,North America,Ashburn,5 ms
+199.34.228.160,443,true,IAD,North America,Ashburn,5 ms
 206.238.236.132,443,true,IAD,North America,Ashburn,5 ms
-192.200.160.19,443,true,IAD,North America,Ashburn,5 ms
-206.238.237.26,443,true,IAD,North America,Ashburn,5 ms
-206.238.236.252,443,true,IAD,North America,Ashburn,5 ms
+50.62.89.58,443,true,IAD,North America,Ashburn,5 ms
+206.238.236.44,443,true,IAD,North America,Ashburn,5 ms
+206.238.236.251,443,true,IAD,North America,Ashburn,5 ms
+199.34.228.56,443,true,IAD,North America,Ashburn,5 ms
+199.34.228.164,443,true,IAD,North America,Ashburn,5 ms
+198.71.190.90,443,true,IAD,North America,Ashburn,5 ms
+166.62.108.173,443,true,IAD,North America,Ashburn,5 ms
+206.238.236.11,443,true,IAD,North America,Ashburn,5 ms
+160.153.137.91,443,true,IAD,North America,Ashburn,5 ms
+198.62.62.91,443,true,IAD,North America,Ashburn,5 ms
+206.238.236.43,443,true,IAD,North America,Ashburn,5 ms
+206.238.236.165,443,true,IAD,North America,Ashburn,5 ms
+63.141.128.9,443,true,IAD,North America,Ashburn,5 ms
+209.177.161.29,443,true,IAD,North America,Ashburn,5 ms
+206.238.237.212,443,true,IAD,North America,Ashburn,5 ms
+91.124.127.0,443,true,IAD,North America,Ashburn,5 ms
+206.238.237.204,443,true,IAD,North America,Ashburn,5 ms
+206.238.236.16,443,true,IAD,North America,Ashburn,5 ms
+206.238.236.157,443,true,IAD,North America,Ashburn,5 ms
+206.238.236.126,443,true,IAD,North America,Ashburn,5 ms
+198.71.233.237,443,true,IAD,North America,Ashburn,5 ms
+206.238.236.123,443,true,IAD,North America,Ashburn,5 ms
+217.163.76.254,443,true,IAD,North America,Ashburn,5 ms
+206.238.236.150,443,true,IAD,North America,Ashburn,5 ms
+72.167.243.77,443,true,IAD,North America,Ashburn,5 ms
+198.12.145.214,443,true,IAD,North America,Ashburn,5 ms
+199.34.228.168,443,true,IAD,North America,Ashburn,5 ms
+206.238.236.145,443,true,IAD,North America,Ashburn,5 ms
+50.62.88.71,443,true,IAD,North America,Ashburn,5 ms
+199.34.228.75,443,true,IAD,North America,Ashburn,5 ms
+160.153.138.42,443,true,IAD,North America,Ashburn,5 ms
+160.153.138.10,443,true,IAD,North America,Ashburn,5 ms
+104.238.71.124,443,true,IAD,North America,Ashburn,5 ms
+199.34.228.174,443,true,IAD,North America,Ashburn,5 ms
+63.141.128.212,443,true,IAD,North America,Ashburn,5 ms
+198.71.189.51,443,true,IAD,North America,Ashburn,5 ms
+47.253.105.131,443,true,IAD,North America,Ashburn,5 ms
+206.238.236.40,443,true,IAD,North America,Ashburn,5 ms
+199.34.228.50,443,true,IAD,North America,Ashburn,5 ms
+206.238.237.18,443,true,IAD,North America,Ashburn,5 ms
+199.34.228.159,443,true,IAD,North America,Ashburn,5 ms
+192.169.223.149,443,true,IAD,North America,Ashburn,5 ms
+206.238.236.57,443,true,IAD,North America,Ashburn,5 ms
+206.238.236.164,443,true,IAD,North America,Ashburn,5 ms
+199.34.228.48,443,true,IAD,North America,Ashburn,5 ms
+206.238.236.58,443,true,IAD,North America,Ashburn,5 ms
 206.238.237.148,443,true,IAD,North America,Ashburn,5 ms
 45.40.144.49,443,true,IAD,North America,Ashburn,5 ms
-45.40.145.224,443,true,IAD,North America,Ashburn,5 ms
-198.71.189.51,443,true,IAD,North America,Ashburn,5 ms
-206.238.236.127,443,true,IAD,North America,Ashburn,5 ms
-206.238.236.215,443,true,IAD,North America,Ashburn,5 ms
-206.238.236.123,443,true,IAD,North America,Ashburn,5 ms
-206.238.236.11,443,true,IAD,North America,Ashburn,5 ms
-72.167.243.77,443,true,IAD,North America,Ashburn,5 ms
-20.62.172.88,443,true,IAD,North America,Ashburn,5 ms
-199.34.228.177,443,true,IAD,North America,Ashburn,5 ms
-206.238.236.126,443,true,IAD,North America,Ashburn,5 ms
-206.238.236.150,443,true,IAD,North America,Ashburn,5 ms
-45.40.155.106,443,true,IAD,North America,Ashburn,5 ms
-192.200.160.160,443,true,IAD,North America,Ashburn,5 ms
-206.238.236.102,443,true,IAD,North America,Ashburn,5 ms
-160.153.138.204,443,true,IAD,North America,Ashburn,5 ms
-104.238.71.124,443,true,IAD,North America,Ashburn,5 ms
-206.238.236.130,443,true,IAD,North America,Ashburn,5 ms
-206.238.236.21,443,true,IAD,North America,Ashburn,5 ms
-199.34.228.54,443,true,IAD,North America,Ashburn,5 ms
-206.238.237.60,443,true,IAD,North America,Ashburn,5 ms
-206.238.236.206,443,true,IAD,North America,Ashburn,5 ms
-198.71.233.55,443,true,IAD,North America,Ashburn,5 ms
+206.238.237.89,443,true,IAD,North America,Ashburn,5 ms
+166.62.108.139,443,true,IAD,North America,Ashburn,5 ms
+206.238.236.54,443,true,IAD,North America,Ashburn,5 ms
 206.238.236.236,443,true,IAD,North America,Ashburn,5 ms
+206.238.236.121,443,true,IAD,North America,Ashburn,5 ms
+199.34.228.74,443,true,IAD,North America,Ashburn,5 ms
+206.238.237.195,443,true,IAD,North America,Ashburn,5 ms
+198.71.233.55,443,true,IAD,North America,Ashburn,5 ms
+206.238.236.98,443,true,IAD,North America,Ashburn,5 ms
+192.200.160.20,443,true,IAD,North America,Ashburn,5 ms
 206.238.236.20,443,true,IAD,North America,Ashburn,5 ms
-206.238.236.203,443,true,IAD,North America,Ashburn,5 ms
-206.238.236.41,443,true,IAD,North America,Ashburn,5 ms
+199.34.228.180,443,true,IAD,North America,Ashburn,5 ms
 160.153.138.178,443,true,IAD,North America,Ashburn,5 ms
-216.24.57.252,443,true,IAD,North America,Ashburn,5 ms
-160.153.138.42,443,true,IAD,North America,Ashburn,5 ms
-206.238.237.22,443,true,IAD,North America,Ashburn,5 ms
-217.163.76.254,443,true,IAD,North America,Ashburn,5 ms
-199.34.228.159,443,true,IAD,North America,Ashburn,5 ms
-206.238.236.18,443,true,IAD,North America,Ashburn,5 ms
-206.238.236.181,443,true,IAD,North America,Ashburn,5 ms
-206.238.236.251,443,true,IAD,North America,Ashburn,6 ms
-206.238.237.23,443,true,IAD,North America,Ashburn,6 ms
-206.238.237.58,443,true,IAD,North America,Ashburn,6 ms
-50.19.193.95,443,true,IAD,North America,Ashburn,6 ms
-206.238.237.34,443,true,IAD,North America,Ashburn,6 ms
-206.238.236.16,443,true,IAD,North America,Ashburn,6 ms
-206.238.236.211,443,true,IAD,North America,Ashburn,6 ms
-206.238.236.242,443,true,IAD,North America,Ashburn,6 ms
-47.253.105.131,443,true,IAD,North America,Ashburn,6 ms
-206.238.236.193,443,true,IAD,North America,Ashburn,6 ms
+198.71.233.69,443,true,IAD,North America,Ashburn,5 ms
+199.34.228.100,443,true,IAD,North America,Ashburn,5 ms
+199.34.228.47,443,true,IAD,North America,Ashburn,6 ms
+45.40.145.224,443,true,IAD,North America,Ashburn,6 ms
+166.62.115.95,443,true,IAD,North America,Ashburn,6 ms
 34.225.195.136,443,true,IAD,North America,Ashburn,6 ms
-206.238.237.41,443,true,IAD,North America,Ashburn,6 ms
-206.238.236.83,443,true,IAD,North America,Ashburn,6 ms
-206.238.236.112,443,true,IAD,North America,Ashburn,6 ms
-206.238.236.121,443,true,IAD,North America,Ashburn,6 ms
-206.238.236.76,443,true,IAD,North America,Ashburn,6 ms
-206.238.236.19,443,true,IAD,North America,Ashburn,6 ms
+160.153.138.204,443,true,IAD,North America,Ashburn,6 ms
+50.19.193.95,443,true,IAD,North America,Ashburn,6 ms
 206.238.236.226,443,true,IAD,North America,Ashburn,6 ms
-206.238.237.253,443,true,IAD,North America,Ashburn,6 ms
-199.34.228.48,443,true,IAD,North America,Ashburn,6 ms
+206.238.237.19,443,true,IAD,North America,Ashburn,6 ms
+192.200.160.19,443,true,IAD,North America,Ashburn,6 ms
+206.238.236.38,443,true,IAD,North America,Ashburn,6 ms
+206.238.236.39,443,true,IAD,North America,Ashburn,6 ms
+5.161.150.31,443,true,IAD,North America,Ashburn,6 ms
+206.238.236.23,443,true,IAD,North America,Ashburn,6 ms
+206.238.236.93,443,true,IAD,North America,Ashburn,6 ms
+199.34.228.69,443,true,IAD,North America,Ashburn,6 ms
+199.34.228.77,443,true,IAD,North America,Ashburn,6 ms
+206.238.236.234,443,true,IAD,North America,Ashburn,6 ms
+206.238.236.221,443,true,IAD,North America,Ashburn,6 ms
 206.238.236.118,443,true,IAD,North America,Ashburn,6 ms
-50.62.89.58,443,true,IAD,North America,Ashburn,6 ms
-206.238.236.73,443,true,IAD,North America,Ashburn,6 ms
-199.34.228.50,443,true,IAD,North America,Ashburn,7 ms
-199.34.228.49,443,true,IAD,North America,Ashburn,7 ms
-206.238.236.165,443,true,IAD,North America,Ashburn,7 ms
-206.238.236.234,443,true,IAD,North America,Ashburn,7 ms
-206.238.236.70,443,true,IAD,North America,Ashburn,7 ms
-206.238.236.7,443,true,IAD,North America,Ashburn,7 ms
-206.238.237.19,443,true,IAD,North America,Ashburn,7 ms
+199.34.228.76,443,true,IAD,North America,Ashburn,6 ms
+206.238.236.37,443,true,IAD,North America,Ashburn,6 ms
+192.200.160.161,443,true,IAD,North America,Ashburn,6 ms
+192.200.160.47,443,true,IAD,North America,Ashburn,6 ms
+198.71.233.90,443,true,IAD,North America,Ashburn,6 ms
+192.200.160.248,443,true,IAD,North America,Ashburn,6 ms
+206.238.236.48,443,true,IAD,North America,Ashburn,6 ms
+206.238.236.30,443,true,IAD,North America,Ashburn,6 ms
+160.153.138.114,443,true,IAD,North America,Ashburn,7 ms
+206.238.236.19,443,true,IAD,North America,Ashburn,7 ms
+206.238.237.131,443,true,IAD,North America,Ashburn,7 ms
+206.238.236.193,443,true,IAD,North America,Ashburn,7 ms
+206.238.236.83,443,true,IAD,North America,Ashburn,7 ms
+198.71.233.76,443,true,IAD,North America,Ashburn,7 ms
+206.238.237.12,443,true,IAD,North America,Ashburn,7 ms
+192.200.160.160,443,true,IAD,North America,Ashburn,7 ms
+199.34.228.79,443,true,IAD,North America,Ashburn,7 ms
+206.238.236.130,443,true,IAD,North America,Ashburn,7 ms
+206.238.237.110,443,true,IAD,North America,Ashburn,7 ms
+206.238.236.186,443,true,IAD,North America,Ashburn,7 ms
+206.238.236.183,443,true,IAD,North America,Ashburn,7 ms
+206.238.236.215,443,true,IAD,North America,Ashburn,7 ms
+206.238.236.127,443,true,IAD,North America,Ashburn,7 ms
 206.238.236.184,443,true,IAD,North America,Ashburn,7 ms
-199.34.228.75,443,true,IAD,North America,Ashburn,7 ms
-206.238.236.40,443,true,IAD,North America,Ashburn,8 ms
-192.200.160.47,443,true,IAD,North America,Ashburn,8 ms
-206.238.236.39,443,true,IAD,North America,Ashburn,8 ms
-206.238.237.151,443,true,IAD,North America,Ashburn,8 ms
 206.238.236.182,443,true,IAD,North America,Ashburn,8 ms
-199.34.228.47,443,true,IAD,North America,Ashburn,8 ms
-192.200.160.248,443,true,IAD,North America,Ashburn,8 ms
-206.238.236.38,443,true,IAD,North America,Ashburn,8 ms
-192.0.54.102,443,true,IAD,North America,Ashburn,8 ms
-206.238.236.164,443,true,IAD,North America,Ashburn,8 ms
-209.177.161.29,443,true,IAD,North America,Ashburn,8 ms
-206.238.236.30,443,true,IAD,North America,Ashburn,8 ms
-206.238.236.254,443,true,IAD,North America,Ashburn,8 ms
-192.200.160.20,443,true,IAD,North America,Ashburn,8 ms
-206.238.237.215,443,true,IAD,North America,Ashburn,8 ms
-192.169.223.149,443,true,IAD,North America,Ashburn,9 ms
-209.177.165.17,443,true,IAD,North America,Ashburn,9 ms
-199.34.228.45,443,true,IAD,North America,Ashburn,9 ms
-206.238.236.35,443,true,IAD,North America,Ashburn,9 ms
-206.238.236.37,443,true,IAD,North America,Ashburn,9 ms
-199.34.228.74,443,true,IAD,North America,Ashburn,9 ms
-199.34.228.73,443,true,IAD,North America,Ashburn,9 ms
-50.62.88.71,443,true,IAD,North America,Ashburn,9 ms
-166.62.108.173,443,true,IAD,North America,Ashburn,9 ms
-198.71.233.237,443,true,IAD,North America,Ashburn,10 ms
-206.238.236.145,443,true,IAD,North America,Ashburn,10 ms
-199.34.228.41,443,true,IAD,North America,Ashburn,10 ms
-206.238.237.212,443,true,IAD,North America,Ashburn,10 ms
-199.34.228.42,443,true,IAD,North America,Ashburn,10 ms
-199.34.228.72,443,true,IAD,North America,Ashburn,11 ms
-199.34.228.65,443,true,IAD,North America,Ashburn,11 ms
+20.62.172.88,443,true,IAD,North America,Ashburn,8 ms
+206.238.236.106,443,true,IAD,North America,Ashburn,8 ms
+206.238.236.181,443,true,IAD,North America,Ashburn,9 ms
+206.238.237.96,443,true,IAD,North America,Ashburn,9 ms
+206.238.237.215,443,true,IAD,North America,Ashburn,9 ms
+206.238.236.160,443,true,IAD,North America,Ashburn,9 ms
+199.34.228.177,443,true,IAD,North America,Ashburn,9 ms
+198.71.233.178,443,true,IAD,North America,Ashburn,9 ms
+206.238.237.92,443,true,IAD,North America,Ashburn,9 ms
+199.34.228.73,443,true,IAD,North America,Ashburn,10 ms
+155.138.209.175,443,true,ATL,North America,Atlanta,10 ms
+206.238.236.73,443,true,IAD,North America,Ashburn,11 ms
 144.202.11.133,443,true,EWR,North America,Newark,11 ms
-199.34.228.57,443,true,IAD,North America,Ashburn,11 ms
-199.34.228.44,443,true,IAD,North America,Ashburn,12 ms
-206.238.237.18,443,true,IAD,North America,Ashburn,12 ms
-80.209.243.147,443,true,EWR,North America,Newark,12 ms
-206.238.236.93,443,true,IAD,North America,Ashburn,12 ms
-199.34.228.59,443,true,IAD,North America,Ashburn,12 ms
-199.34.228.77,443,true,IAD,North America,Ashburn,12 ms
-198.98.60.145,443,true,EWR,North America,Newark,12 ms
-206.238.236.221,443,true,IAD,North America,Ashburn,13 ms
-199.34.228.56,443,true,IAD,North America,Ashburn,13 ms
-206.238.236.57,443,true,IAD,North America,Ashburn,13 ms
-206.238.237.131,443,true,IAD,North America,Ashburn,13 ms
-206.238.237.12,443,true,IAD,North America,Ashburn,13 ms
-206.238.236.183,443,true,IAD,North America,Ashburn,13 ms
-206.238.237.158,443,true,IAD,North America,Ashburn,14 ms
-206.238.236.23,443,true,IAD,North America,Ashburn,14 ms
+80.209.243.147,443,true,EWR,North America,Newark,11 ms
+199.34.228.72,443,true,IAD,North America,Ashburn,11 ms
+206.238.236.211,443,true,IAD,North America,Ashburn,13 ms
+206.238.236.252,443,true,IAD,North America,Ashburn,13 ms
+206.238.236.254,443,true,IAD,North America,Ashburn,13 ms
+206.238.236.21,443,true,IAD,North America,Ashburn,13 ms
+206.238.237.83,443,true,IAD,North America,Ashburn,13 ms
+198.98.60.145,443,true,EWR,North America,Newark,13 ms
+206.238.237.62,443,true,IAD,North America,Ashburn,13 ms
+206.238.237.101,443,true,IAD,North America,Ashburn,13 ms
+206.238.237.41,443,true,IAD,North America,Ashburn,13 ms
+206.238.237.58,443,true,IAD,North America,Ashburn,13 ms
 206.238.236.227,443,true,IAD,North America,Ashburn,14 ms
-206.238.237.206,443,true,IAD,North America,Ashburn,14 ms
-207.174.31.150,443,true,ATL,North America,Atlanta,14 ms
-206.238.236.186,443,true,IAD,North America,Ashburn,14 ms
-206.238.236.60,443,true,IAD,North America,Ashburn,15 ms
+206.238.236.214,443,true,IAD,North America,Ashburn,14 ms
+206.238.237.253,443,true,IAD,North America,Ashburn,15 ms
+199.34.228.182,443,true,IAD,North America,Ashburn,15 ms
 18.216.55.100,443,true,CMH,North America,Columbus,15 ms
-199.34.228.180,443,true,IAD,North America,Ashburn,16 ms
+199.34.228.45,443,true,IAD,North America,Ashburn,15 ms
+199.34.228.78,443,true,IAD,North America,Ashburn,15 ms
+199.34.228.42,443,true,IAD,North America,Ashburn,16 ms
 209.237.135.93,443,true,ATL,North America,Atlanta,16 ms
+199.34.228.67,443,true,IAD,North America,Ashburn,16 ms
 18.222.145.58,443,true,ORD,North America,Chicago,16 ms
-206.238.236.58,443,true,IAD,North America,Ashburn,17 ms
-199.34.228.76,443,true,IAD,North America,Ashburn,18 ms
-199.34.228.71,443,true,IAD,North America,Ashburn,18 ms
-206.238.236.44,443,true,IAD,North America,Ashburn,18 ms
-199.34.228.69,443,true,IAD,North America,Ashburn,18 ms
-199.34.228.70,443,true,IAD,North America,Ashburn,19 ms
-206.238.237.204,443,true,IAD,North America,Ashburn,19 ms
-206.238.237.96,443,true,IAD,North America,Ashburn,19 ms
-69.28.83.244,443,true,YYZ,North America,Toronto,20 ms
-199.34.228.66,443,true,IAD,North America,Ashburn,20 ms
-199.34.228.68,443,true,IAD,North America,Ashburn,20 ms
-206.238.236.54,443,true,IAD,North America,Ashburn,20 ms
-206.238.237.83,443,true,IAD,North America,Ashburn,21 ms
-206.238.237.110,443,true,IAD,North America,Ashburn,21 ms
-199.34.228.67,443,true,IAD,North America,Ashburn,21 ms
-206.238.237.195,443,true,IAD,North America,Ashburn,21 ms
-104.168.62.119,443,true,BUF,North America,Buffalo,21 ms
-206.238.237.80,443,true,IAD,North America,Ashburn,21 ms
-107.173.251.119,443,true,YYZ,North America,Toronto,21 ms
+199.34.228.41,443,true,IAD,North America,Ashburn,16 ms
+199.34.228.191,443,true,IAD,North America,Ashburn,16 ms
+199.34.228.44,443,true,IAD,North America,Ashburn,16 ms
+199.34.228.71,443,true,IAD,North America,Ashburn,17 ms
+206.238.237.23,443,true,IAD,North America,Ashburn,18 ms
+199.34.228.70,443,true,IAD,North America,Ashburn,18 ms
+206.238.237.60,443,true,IAD,North America,Ashburn,19 ms
+199.34.228.65,443,true,IAD,North America,Ashburn,19 ms
+206.238.237.80,443,true,IAD,North America,Ashburn,19 ms
+199.34.228.59,443,true,IAD,North America,Ashburn,19 ms
+206.238.237.245,443,true,IAD,North America,Ashburn,19 ms
+206.238.237.34,443,true,IAD,North America,Ashburn,19 ms
+206.238.237.241,443,true,IAD,North America,Ashburn,19 ms
+206.238.237.67,443,true,IAD,North America,Ashburn,19 ms
+206.238.236.242,443,true,IAD,North America,Ashburn,20 ms
+69.28.83.244,443,true,YYZ,North America,Toronto,21 ms
+172.245.159.231,443,true,EWR,North America,Newark,21 ms
+206.238.236.207,443,true,IAD,North America,Ashburn,21 ms
+107.173.251.119,443,true,BUF,North America,Buffalo,21 ms
+23.95.189.91,443,true,YYZ,North America,Toronto,21 ms
 213.255.209.189,443,true,YYZ,North America,Toronto,21 ms
-206.238.237.101,443,true,IAD,North America,Ashburn,21 ms
-206.238.236.48,443,true,IAD,North America,Ashburn,22 ms
-199.34.228.182,443,true,IAD,North America,Ashburn,23 ms
-35.182.7.190,443,true,YUL,North America,Montréal,23 ms
+206.238.236.206,443,true,IAD,North America,Ashburn,22 ms
+206.238.237.26,443,true,IAD,North America,Ashburn,22 ms
+172.245.64.141,443,true,ORD,North America,Chicago,23 ms
 35.183.163.195,443,true,YUL,North America,Montréal,23 ms
-3.99.106.179,443,true,YUL,North America,Montréal,24 ms
+3.99.106.179,443,true,YUL,North America,Montréal,23 ms
+206.238.237.158,443,true,IAD,North America,Ashburn,25 ms
 50.114.206.81,443,true,YYZ,North America,Toronto,25 ms
-23.95.189.91,443,true,YYZ,North America,Toronto,27 ms
-206.238.237.92,443,true,IAD,North America,Ashburn,28 ms
-206.238.237.67,443,true,IAD,North America,Ashburn,29 ms
-206.238.237.89,443,true,IAD,North America,Ashburn,30 ms
-199.34.228.78,443,true,IAD,North America,Ashburn,31 ms
-199.34.228.79,443,true,IAD,North America,Ashburn,32 ms
-172.245.159.231,443,true,YYZ,North America,Toronto,34 ms
+207.174.31.150,443,true,IAD,North America,Ashburn,26 ms
+35.182.7.190,443,true,YUL,North America,Montréal,27 ms
+104.168.62.119,443,true,BUF,North America,Buffalo,27 ms
+206.238.237.22,443,true,IAD,North America,Ashburn,27 ms
+206.238.237.222,443,true,IAD,North America,Ashburn,29 ms
+206.238.236.70,443,true,IAD,North America,Ashburn,30 ms
+206.238.236.7,443,true,IAD,North America,Ashburn,30 ms
+206.238.236.60,443,true,IAD,North America,Ashburn,31 ms
+206.238.236.76,443,true,IAD,North America,Ashburn,33 ms
+74.208.122.131,443,true,MCI,North America,Kansas City,35 ms
+38.107.232.53,443,true,DFW,North America,Dallas,38 ms
 45.11.93.113,443,true,DFW,North America,Dallas,38 ms
-38.107.232.53,443,true,DFW,North America,Dallas,39 ms
-192.237.192.175,443,true,DFW,North America,Dallas,41 ms
-192.193.104.25,443,true,DFW,North America,Dallas,42 ms
-206.238.236.98,443,true,IAD,North America,Ashburn,43 ms
+199.34.228.68,443,true,IAD,North America,Ashburn,43 ms
+192.237.192.175,443,true,DFW,North America,Dallas,46 ms
+199.34.228.66,443,true,IAD,North America,Ashburn,47 ms
+192.193.104.25,443,true,DFW,North America,Dallas,48 ms
 74.48.140.177,443,true,LAX,North America,Los Angeles,51 ms
-91.149.239.64,443,true,LAX,North America,Los Angeles,52 ms
-91.149.239.122,443,true,LAX,North America,Los Angeles,53 ms
-148.135.15.148,443,true,LAX,North America,Los Angeles,53 ms
-74.48.89.211,443,true,LAX,North America,Los Angeles,55 ms
 142.171.233.183,443,true,LAX,North America,Los Angeles,55 ms
-142.171.140.152,443,true,LAX,North America,Los Angeles,55 ms
-74.48.196.47,443,true,LAX,North America,Los Angeles,55 ms
-91.149.239.234,443,true,LAX,North America,Los Angeles,56 ms
-74.48.85.50,443,true,LAX,North America,Los Angeles,59 ms
-74.48.52.222,443,true,LAX,North America,Los Angeles,59 ms
-74.48.17.250,443,true,LAX,North America,Los Angeles,59 ms
-91.149.239.70,443,true,LAX,North America,Los Angeles,61 ms
-91.149.239.198,443,true,LAX,North America,Los Angeles,61 ms
-154.19.242.205,443,true,LAX,North America,Los Angeles,63 ms
+74.48.85.50,443,true,LAX,North America,Los Angeles,55 ms
+84.32.44.80,443,true,LAX,North America,Los Angeles,56 ms
+91.149.239.62,443,true,LAX,North America,Los Angeles,57 ms
+74.48.89.211,443,true,LAX,North America,Los Angeles,60 ms
+148.135.15.148,443,true,LAX,North America,Los Angeles,60 ms
+154.19.242.205,443,true,LAX,North America,Los Angeles,60 ms
+142.171.140.152,443,true,LAX,North America,Los Angeles,60 ms
+91.149.239.122,443,true,LAX,North America,Los Angeles,61 ms
+91.149.239.206,443,true,LAX,North America,Los Angeles,61 ms
+91.149.239.234,443,true,LAX,North America,Los Angeles,61 ms
+91.149.239.70,443,true,LAX,North America,Los Angeles,62 ms
+74.48.17.250,443,true,LAX,North America,Los Angeles,62 ms
+91.149.239.198,443,true,LAX,North America,Los Angeles,62 ms
+47.251.95.178,443,true,SJC,North America,San Jose,63 ms
+184.169.181.217,443,true,SJC,North America,San Jose,63 ms
+47.88.15.127,443,true,SJC,North America,San Jose,64 ms
+91.149.239.64,443,true,LAX,North America,Los Angeles,64 ms
 38.244.8.222,443,true,LAX,North America,Los Angeles,64 ms
 98.158.193.72,443,true,LAX,North America,Los Angeles,65 ms
-91.149.239.62,443,true,LAX,North America,Los Angeles,67 ms
-47.251.95.178,443,true,SJC,North America,San Jose,67 ms
-47.88.15.127,443,true,SJC,North America,San Jose,68 ms
-184.169.181.217,443,true,SJC,North America,San Jose,70 ms
+34.82.76.253,443,true,SEA,North America,Seattle,70 ms
+35.247.124.181,443,true,SEA,North America,Seattle,70 ms
 156.146.53.82,443,true,SJC,North America,San Jose,70 ms
+35.197.23.75,443,true,SEA,North America,Seattle,71 ms
 54.247.36.82,443,true,DUB,Europe,Dublin,71 ms
-38.38.116.189,443,true,LAX,North America,Los Angeles,71 ms
-35.197.23.75,443,true,SEA,North America,Seattle,72 ms
-34.105.49.234,443,true,SEA,North America,Seattle,72 ms
-156.146.53.83,443,true,SJC,North America,San Jose,72 ms
-35.247.124.181,443,true,SEA,North America,Seattle,72 ms
 104.234.4.60,443,true,SJC,North America,San Jose,72 ms
-34.82.76.253,443,true,SEA,North America,Seattle,72 ms
-45.156.24.225,443,true,SJC,North America,San Jose,72 ms
-38.38.116.166,443,true,LAX,North America,Los Angeles,73 ms
-84.32.44.80,443,true,LAX,North America,Los Angeles,76 ms
-138.68.161.13,443,true,LHR,Europe,London,79 ms
-95.179.236.51,443,true,LHR,Europe,London,80 ms
+156.146.53.83,443,true,SJC,North America,San Jose,72 ms
+45.156.24.225,443,true,SJC,North America,San Jose,73 ms
+34.105.49.234,443,true,SEA,North America,Seattle,73 ms
+198.244.148.214,443,true,LHR,Europe,London,78 ms
+95.179.236.51,443,true,LHR,Europe,London,79 ms
+54.200.244.93,443,true,PDX,North America,Portland,80 ms
 34.219.53.148,443,true,PDX,North America,Portland,80 ms
-35.176.229.223,443,true,LHR,Europe,London,80 ms
+138.68.161.13,443,true,LHR,Europe,London,80 ms
+34.208.221.169,443,true,PDX,North America,Portland,80 ms
 18.170.77.148,443,true,LHR,Europe,London,81 ms
-3.9.223.59,443,true,LHR,Europe,London,82 ms
+3.9.223.59,443,true,LHR,Europe,London,81 ms
+35.176.229.223,443,true,LHR,Europe,London,82 ms
+35.180.229.1,443,true,CDG,Europe,Paris,84 ms
 192.210.175.185,443,true,AMS,Europe,Amsterdam,84 ms
-54.200.244.93,443,true,PDX,North America,Portland,84 ms
-35.180.229.1,443,true,CDG,Europe,Paris,85 ms
-34.208.221.169,443,true,PDX,North America,Portland,85 ms
-213.170.157.1,443,true,PDX,North America,Portland,86 ms
-185.244.48.82,443,true,AMS,Europe,Amsterdam,88 ms
-142.93.131.94,443,true,AMS,Europe,Amsterdam,88 ms
-146.190.236.144,443,true,AMS,Europe,Amsterdam,88 ms
+95.179.154.66,443,true,AMS,Europe,Amsterdam,85 ms
+213.170.157.1,443,true,PDX,North America,Portland,87 ms
+142.93.131.94,443,true,AMS,Europe,Amsterdam,87 ms
 142.93.229.101,443,true,AMS,Europe,Amsterdam,88 ms
-95.179.154.66,443,true,AMS,Europe,Amsterdam,89 ms
-157.245.27.205,443,true,FRA,Europe,Frankfurt,89 ms
-174.138.8.21,443,true,AMS,Europe,Amsterdam,89 ms
-206.189.102.194,443,true,AMS,Europe,Amsterdam,89 ms
-167.172.106.173,443,true,FRA,Europe,Frankfurt,89 ms
+46.101.192.148,443,true,FRA,Europe,Frankfurt,88 ms
+174.138.8.21,443,true,AMS,Europe,Amsterdam,88 ms
+185.244.48.82,443,true,AMS,Europe,Amsterdam,89 ms
 86.38.156.220,443,true,FRA,Europe,Frankfurt,89 ms
-18.197.218.69,443,true,FRA,Europe,Frankfurt,90 ms
-46.101.243.68,443,true,FRA,Europe,Frankfurt,90 ms
+165.227.139.171,443,true,FRA,Europe,Frankfurt,89 ms
+3.124.208.189,443,true,FRA,Europe,Frankfurt,89 ms
+67.207.73.198,443,true,FRA,Europe,Frankfurt,90 ms
 104.248.100.121,443,true,FRA,Europe,Frankfurt,90 ms
-3.126.159.12,443,true,FRA,Europe,Frankfurt,91 ms
-18.156.21.22,443,true,FRA,Europe,Frankfurt,91 ms
-165.227.139.171,443,true,FRA,Europe,Frankfurt,91 ms
-46.101.192.148,443,true,FRA,Europe,Frankfurt,91 ms
-198.244.148.214,443,true,LHR,Europe,London,91 ms
+38.38.116.189,443,true,LAX,North America,Los Angeles,90 ms
+18.197.218.69,443,true,FRA,Europe,Frankfurt,91 ms
+157.245.27.205,443,true,FRA,Europe,Frankfurt,91 ms
 34.175.202.195,443,true,MAD,Europe,Madrid,91 ms
-3.75.170.179,443,true,FRA,Europe,Frankfurt,91 ms
-165.227.134.63,443,true,FRA,Europe,Frankfurt,91 ms
+167.172.106.173,443,true,FRA,Europe,Frankfurt,91 ms
 104.248.16.87,443,true,FRA,Europe,Frankfurt,91 ms
-18.184.27.249,443,true,FRA,Europe,Frankfurt,92 ms
-188.166.162.201,443,true,FRA,Europe,Frankfurt,92 ms
-18.184.55.249,443,true,FRA,Europe,Frankfurt,92 ms
+3.75.170.179,443,true,FRA,Europe,Frankfurt,91 ms
 206.81.29.239,443,true,FRA,Europe,Frankfurt,92 ms
-3.124.208.189,443,true,FRA,Europe,Frankfurt,92 ms
+18.184.55.249,443,true,FRA,Europe,Frankfurt,92 ms
+3.126.159.12,443,true,FRA,Europe,Frankfurt,92 ms
 138.197.183.219,443,true,FRA,Europe,Frankfurt,92 ms
+165.227.134.63,443,true,FRA,Europe,Frankfurt,92 ms
 164.90.228.172,443,true,FRA,Europe,Frankfurt,92 ms
+38.38.116.166,443,true,LAX,North America,Los Angeles,93 ms
+46.101.243.68,443,true,FRA,Europe,Frankfurt,93 ms
+188.166.162.201,443,true,FRA,Europe,Frankfurt,93 ms
+18.156.21.22,443,true,FRA,Europe,Frankfurt,93 ms
+146.190.236.144,443,true,AMS,Europe,Amsterdam,93 ms
+18.184.27.249,443,true,FRA,Europe,Frankfurt,93 ms
 159.69.14.138,443,true,CDG,Europe,Paris,93 ms
-78.46.56.42,443,true,FRA,Europe,Frankfurt,94 ms
-3.76.154.119,443,true,FRA,Europe,Frankfurt,94 ms
+206.189.102.194,443,true,AMS,Europe,Amsterdam,94 ms
 167.235.242.114,443,true,FRA,Europe,Frankfurt,95 ms
-67.207.73.198,443,true,FRA,Europe,Frankfurt,96 ms
-91.107.135.104,443,true,FRA,Europe,Frankfurt,98 ms
-51.20.99.157,443,true,HEL,Europe,Helsinki,102 ms
+91.107.135.104,443,true,FRA,Europe,Frankfurt,95 ms
+78.46.56.42,443,true,FRA,Europe,Frankfurt,96 ms
+3.76.154.119,443,true,FRA,Europe,Frankfurt,100 ms
+51.20.99.157,443,true,TLL,Europe,Tallinn,102 ms
 13.51.55.31,443,true,ARN,Europe,Stockholm,103 ms
-34.88.63.160,443,true,ARN,Europe,Stockholm,107 ms
-186.67.70.55,443,true,SCL,South America,Santiago,115 ms
+34.88.63.160,443,true,OSL,Europe,Oslo,110 ms
+186.67.70.55,443,true,SCL,South America,Santiago,112 ms
 144.22.252.124,443,true,GRU,South America,São Paulo,116 ms
 65.109.167.39,443,true,AMS,Europe,Amsterdam,117 ms
 95.216.143.166,443,true,HEL,Europe,Helsinki,117 ms
 135.181.81.147,443,true,HEL,Europe,Helsinki,118 ms
-37.27.80.227,443,true,ARN,Europe,Stockholm,119 ms
-37.27.40.190,443,true,AMS,Europe,Amsterdam,122 ms
-103.232.213.121,443,true,NRT,Asia Pacific,Tokyo,151 ms
-54.95.94.250,443,true,NRT,Asia Pacific,Tokyo,152 ms
+37.27.80.227,443,true,AMS,Europe,Amsterdam,121 ms
+154.31.114.83,443,true,NRT,Asia Pacific,Tokyo,151 ms
+153.121.45.101,443,true,NRT,Asia Pacific,Tokyo,151 ms
+160.16.76.226,443,true,NRT,Asia Pacific,Tokyo,151 ms
+52.193.46.19,443,true,NRT,Asia Pacific,Tokyo,151 ms
 154.31.113.72,443,true,NRT,Asia Pacific,Tokyo,155 ms
-154.31.114.83,443,true,NRT,Asia Pacific,Tokyo,155 ms
-35.77.193.86,443,true,NRT,Asia Pacific,Tokyo,155 ms
-43.206.192.211,443,true,NRT,Asia Pacific,Tokyo,155 ms
-18.183.158.211,443,true,NRT,Asia Pacific,Tokyo,156 ms
+103.232.213.121,443,true,NRT,Asia Pacific,Tokyo,155 ms
+192.169.127.184,443,true,SJC,North America,San Jose,155 ms
+128.1.18.29,443,true,SJC,North America,San Jose,155 ms
+153.121.40.119,443,true,NRT,Asia Pacific,Tokyo,156 ms
 172.104.127.132,443,true,NRT,Asia Pacific,Tokyo,156 ms
-54.238.156.23,443,true,NRT,Asia Pacific,Tokyo,156 ms
-13.230.34.30,443,true,NRT,Asia Pacific,Tokyo,156 ms
-160.16.76.226,443,true,NRT,Asia Pacific,Tokyo,157 ms
-18.181.254.118,443,true,NRT,Asia Pacific,Tokyo,159 ms
-153.121.45.101,443,true,NRT,Asia Pacific,Tokyo,159 ms
-153.121.40.119,443,true,NRT,Asia Pacific,Tokyo,159 ms
-192.169.127.184,443,true,SJC,North America,San Jose,159 ms
-52.193.46.19,443,true,NRT,Asia Pacific,Tokyo,160 ms
-3.112.21.102,443,true,NRT,Asia Pacific,Tokyo,161 ms
+35.77.193.86,443,true,NRT,Asia Pacific,Tokyo,156 ms
+52.197.230.94,443,true,NRT,Asia Pacific,Tokyo,156 ms
+18.181.254.118,443,true,NRT,Asia Pacific,Tokyo,156 ms
+13.230.34.30,443,true,NRT,Asia Pacific,Tokyo,157 ms
+54.248.121.219,443,true,NRT,Asia Pacific,Tokyo,158 ms
+54.238.156.23,443,true,NRT,Asia Pacific,Tokyo,159 ms
+45.77.9.114,443,true,NRT,Asia Pacific,Tokyo,160 ms
+54.95.94.250,443,true,NRT,Asia Pacific,Tokyo,161 ms
+43.206.192.211,443,true,NRT,Asia Pacific,Tokyo,161 ms
 195.245.229.63,443,true,KIX,Asia Pacific,Osaka,161 ms
-35.75.160.251,443,true,NRT,Asia Pacific,Tokyo,161 ms
-159.100.194.42,443,true,SJC,North America,San Jose,167 ms
-52.141.25.42,443,true,ICN,Asia Pacific,Seoul,178 ms
-158.180.82.186,443,true,ICN,Asia Pacific,Seoul,179 ms
-123.111.169.70,443,true,ICN,Asia Pacific,Seoul,180 ms
-103.137.63.3,443,true,KHH,Asia Pacific,Kaohsiung City,183 ms
+18.183.158.211,443,true,NRT,Asia Pacific,Tokyo,161 ms
+35.75.160.251,443,true,NRT,Asia Pacific,Tokyo,165 ms
+3.112.21.102,443,true,NRT,Asia Pacific,Tokyo,165 ms
+159.100.194.42,443,true,SJC,North America,San Jose,171 ms
+123.111.169.70,443,true,ICN,Asia Pacific,Seoul,176 ms
+103.137.63.3,443,true,KHH,Asia Pacific,Kaohsiung City,185 ms
+52.141.25.42,443,true,ICN,Asia Pacific,Seoul,186 ms
 98.70.26.236,443,true,BOM,Asia Pacific,Mumbai,188 ms
-129.154.207.203,443,true,ICN,Asia Pacific,Seoul,193 ms
-131.186.17.132,443,true,ICN,Asia Pacific,Seoul,193 ms
-219.76.13.180,443,true,HKG,Asia Pacific,Hong Kong,200 ms
-219.76.13.177,443,true,HKG,Asia Pacific,Hong Kong,200 ms
-219.76.13.183,443,true,HKG,Asia Pacific,Hong Kong,200 ms
-16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,202 ms
-43.198.71.39,443,true,HKG,Asia Pacific,Hong Kong,202 ms
-18.167.172.112,443,true,HKG,Asia Pacific,Hong Kong,203 ms
+158.180.82.186,443,true,ICN,Asia Pacific,Seoul,189 ms
+129.154.207.203,443,true,ICN,Asia Pacific,Seoul,194 ms
+131.186.17.132,443,true,ICN,Asia Pacific,Seoul,195 ms
+219.76.13.183,443,true,HKG,Asia Pacific,Hong Kong,197 ms
+8.212.43.8,443,true,SJC,North America,San Jose,199 ms
+16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,199 ms
 47.76.218.163,443,true,HKG,Asia Pacific,Hong Kong,203 ms
-207.46.138.8,443,true,HKG,Asia Pacific,Hong Kong,204 ms
-219.76.13.166,443,true,HKG,Asia Pacific,Hong Kong,204 ms
-47.57.245.232,443,true,SJC,North America,San Jose,207 ms
-154.3.32.51,443,true,HKG,Asia Pacific,Hong Kong,209 ms
+219.76.13.177,443,true,HKG,Asia Pacific,Hong Kong,204 ms
+47.57.233.126,443,true,SJC,North America,San Jose,204 ms
+207.46.138.8,443,true,HKG,Asia Pacific,Hong Kong,205 ms
+219.76.13.166,443,true,HKG,Asia Pacific,Hong Kong,210 ms
+154.3.32.51,443,true,HKG,Asia Pacific,Hong Kong,211 ms
+18.167.172.112,443,true,HKG,Asia Pacific,Hong Kong,212 ms
+219.76.13.180,443,true,HKG,Asia Pacific,Hong Kong,213 ms
+104.248.145.216,443,true,SIN,Asia Pacific,Singapore,217 ms
 103.127.248.51,443,true,HKG,Asia Pacific,Hong Kong,217 ms
-13.229.159.215,443,true,SIN,Asia Pacific,Singapore,221 ms
-104.248.145.216,443,true,SIN,Asia Pacific,Singapore,222 ms
-47.91.18.127,443,true,SEA,North America,Seattle,223 ms
-149.129.8.215,443,true,SJC,North America,San Jose,223 ms
+128.199.125.131,443,true,SIN,Asia Pacific,Singapore,219 ms
+149.129.8.215,443,true,SJC,North America,San Jose,220 ms
+3.0.39.179,443,true,SIN,Asia Pacific,Singapore,221 ms
+13.229.159.215,443,true,SIN,Asia Pacific,Singapore,222 ms
+13.250.14.76,443,true,SIN,Asia Pacific,Singapore,222 ms
+13.250.131.37,443,true,SIN,Asia Pacific,Singapore,222 ms
 54.169.229.188,443,true,SIN,Asia Pacific,Singapore,224 ms
-128.199.125.131,443,true,SIN,Asia Pacific,Singapore,224 ms
-13.250.14.76,443,true,SIN,Asia Pacific,Singapore,225 ms
-20.191.139.184,443,true,SIN,Asia Pacific,Singapore,226 ms
-43.156.181.203,443,true,SIN,Asia Pacific,Singapore,226 ms
-13.250.131.37,443,true,SIN,Asia Pacific,Singapore,226 ms
-3.0.39.179,443,true,SIN,Asia Pacific,Singapore,226 ms
-124.156.202.172,443,true,SIN,Asia Pacific,Singapore,227 ms
+43.156.181.203,443,true,SIN,Asia Pacific,Singapore,224 ms
+47.91.18.127,443,true,SJC,North America,San Jose,228 ms
+8.219.254.241,443,true,SIN,Asia Pacific,Singapore,233 ms
+8.222.181.139,443,true,SIN,Asia Pacific,Singapore,233 ms
 47.74.157.194,443,true,SIN,Asia Pacific,Singapore,234 ms
-51.79.254.182,443,true,SIN,Asia Pacific,Singapore,238 ms
-8.219.254.241,443,true,SIN,Asia Pacific,Singapore,238 ms
-8.220.134.136,443,true,SIN,Asia Pacific,Singapore,264 ms
-91.149.239.206,443,true,LAX,North America,Los Angeles,703 ms
+20.191.139.184,443,true,SIN,Asia Pacific,Singapore,239 ms
+8.220.134.136,443,true,SIN,Asia Pacific,Singapore,239 ms
